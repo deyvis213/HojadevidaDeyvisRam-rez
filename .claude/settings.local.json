@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const fs=require\\('fs'\\); const code=fs.readFileSync\\('c:/Users/PC/Desktop/Web CV DR/index.html','utf8'\\); const m=code.match\\(/<script>\\([\\\\s\\\\S]*?\\)<\\\\/script>/g\\); let ok=true; if\\(m\\){m.forEach\\(\\(s,i\\)=>{try{new Function\\(s.replace\\(/<\\\\/?script[^>]*>/g,''\\)\\);} catch\\(e\\){console.log\\('Script block',i,':',e.message.slice\\(0,120\\)\\);ok=false;}}\\);} if\\(ok\\)console.log\\('JS OK'\\);\")",
+      "Bash(powershell -command \"\\(Get-Content 'c:\\\\Users\\\\PC\\\\Desktop\\\\Web CV DR\\\\index.html' | Measure-Object -Line\\).Lines\")",
+      "Bash(powershell -command \"Select-String -Path 'c:\\\\Users\\\\PC\\\\Desktop\\\\Web CV DR\\\\index.html' -Pattern 'yamaha|r6|Yamaha' | Select-Object LineNumber, Line | Select-Object -First 5\")",
+      "Bash(powershell -command \"Select-String -Path 'c:\\\\Users\\\\PC\\\\Desktop\\\\Web CV DR\\\\index.html' -Pattern 'faqData' | Select-Object LineNumber, Line | Select-Object -First 5\")",
+      "Bash(powershell -command \"Select-String -Path 'c:\\\\Users\\\\PC\\\\Desktop\\\\Web CV DR\\\\index.html' -Pattern \\\\\"'\\\\+CV\\\\.\")",
+      "Bash(Select-Object LineNumber, Line\")",
+      "Bash(node -e ' *)",
+      "Bash(node \"c:/Users/PC/Desktop/Web CV DR/add_faq.js\")"
+    ]
+  }
+}
