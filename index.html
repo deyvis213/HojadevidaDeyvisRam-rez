@@ -2569,6 +2569,11 @@ function detectIntent(msg) {
   if (/hola|buenos|buenas|saludos|hey|buen dia|hi\b|good/.test(msg)) return 'greet';
   if (/adios|bye|hasta|gracias|muchas gracias|despedida|chao/.test(msg)) return 'bye';
 
+  // ── Contacto físico/personal ANTES del FAQ (evita confusión con perfil profesional) ──
+  // "dirección" de domicilio: captura "dirección" cuando NO va seguida de "general/ejecutiva"
+  if (/\bdireccion\b(?!\s*(general|ejecutiv|corporativ|empresarial))|domicilio|bella vista|donde viv|donde queda|pronasa|residencial|helios/.test(msg)) return 'direccion';
+  if (/^cedula$|cedula.*identidad|numero.*cedula/.test(msg)) return 'cedula';
+
   // ── PRIORIDAD ABSOLUTA: FAQ exact match ANTES que cualquier categoría ──────
   var fqExact = searchFAQExact(msg);
   if (fqExact) return fqExact;
