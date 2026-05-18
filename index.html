@@ -2266,7 +2266,9 @@ var STOP_WORDS = {
   sabe:1,sabes:1,saben:1,
   vive:1,vives:1,viven:1,
   // Palabras de categoría — identifican un tema amplio, no un FAQ específico
-  idioma:1,idiomas:1
+  idioma:1,idiomas:1,
+  // Adverbios de tiempo genéricos (aparecen en demasiadas preguntas y keywords)
+  ahora:1,ahora:1,actualmente:1,siempre:1,nunca:1,hoy:1,ayer:1,manana:1
 };
 
 // Lematización + tolerancia de raíces verbales
@@ -2284,20 +2286,17 @@ function wordMatch(userWord, kwWord) {
 }
 
 // ── FASE 1: searchFAQExact ────────────────────────────────────────────────
-// Motor de intersección de palabras reales — sin scoring, sin raíces.
+// Motor de intersección de palabras — insensible a mayúsculas, acentos y puntuación.
 //
-// PASO 1 — Limpieza: quitar signos de interrogación y puntuación.
+// PASO 1 — Limpieza total: elimina TODA puntuación del mensaje.
 // PASO 2 — Tokenizar: array de palabras del usuario (≥3 chars, no stop words).
-// PASO 3 — Recorre el array faq del JSON entrada por entrada:
-//   A) Frase exacta: si el keyword completo está dentro del mensaje → match inmediato
-//      (captura "soltero", "besar", "on2" como keywords standalone)
-//   B) Palabra única: si una palabra significativa del keyword (≥4 chars, no stop)
-//      está presente en las palabras del usuario → match inmediato
-//      ("casado" ∈ userWords al leer kwWord "casado" de "te has casado")
-// La primera entrada que coincide gana. Sin acumulación de puntos por longitud.
+// PASO 3 — Dos bucles independientes:
+//   Bucle A: si el keyword completo (normalizado) aparece en el mensaje limpio → match
+//   Bucle B: si una palabra clave significativa (≥4 chars) está en las palabras del usuario
+// Independiente de MAYÚSCULAS, minúsculas, acentos o signos de puntuación.
 function searchFAQExact(m) {
-  // PASO 1 — Limpiar puntuación
-  var clean = m.replace(/[¿?¡!,.:;"'()\[\]]/g, '');
+  // PASO 1 — Limpiar TODA la puntuación para comparación insensible a signos
+  var clean = m.replace(/[¿?¡!,.:;"'()\[\]\-–—\/\\·]/g, '');
 
   // PASO 2 — Tokenizar: palabras del usuario (≥3 chars, no stop words)
   var userWords = clean.split(/\s+/).filter(function(w){
@@ -2308,15 +2307,14 @@ function searchFAQExact(m) {
   // PASO 3 — Intersección: dos bucles independientes (A siempre antes que B)
   var i, j, l, kw, kws, kwWord, kwWords;
 
-  // ── Bucle A: frase exacta (keyword completo ⊆ mensaje) ─────────────────
-  // Se recorre TODO el faq buscando frases antes de evaluar palabras sueltas.
-  // Esto garantiza que "que libro escribirias" gane sobre cualquier otra
-  // entrada que solo tenga "libro" como palabra suelta.
+  // ── Bucle A: frase exacta — insensible a puntuación, may/min y acentos ────
+  // Compara `clean` (mensaje sin puntuación) con el keyword también sin puntuación.
+  // Garantiza que "que libro escribirias" gane antes que palabras sueltas como "libro".
   for (i = 0; i < faqData.length; i++) {
     kws = faqData[i][0].split('|');
     for (j = 0; j < kws.length; j++) {
-      kw = normStr(kws[j]);
-      if (m.indexOf(kw) !== -1) { lastFAQ = faqData[i][1]; return 'faqMatch'; }
+      kw = normStr(kws[j]).replace(/[¿?¡!,.:;"'()\[\]\-]/g, '').replace(/\s+/g, ' ').trim();
+      if (clean.indexOf(kw) !== -1) { lastFAQ = faqData[i][1]; return 'faqMatch'; }
     }
   }
 

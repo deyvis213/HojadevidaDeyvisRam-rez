@@ -1791,6 +1791,374 @@
     [
       "licencia conducir categorias|licencia vehiculo pesado|tipo de licencia conducir|licencia pesado liviano",
       "🚗 Sí, tengo licencia de conducir para vehículo liviano y vehículo pesado."
+    ],
+    [
+      "trabajas solo|trabajar solo|autonomia trabajo|trabajo independiente",
+      "Sí, tengo alta autonomía y autodisciplina para trabajar solo cuando es necesario."
+    ],
+    [
+      "escuchas a los demas|eres buen escucha|escucha activa|escuchas activamente",
+      "Sí, con atención real. Escuchar bien es clave para entender y ayudar."
+    ],
+    [
+      "pides disculpas|te disculpas cuando|pedir perdon cuando corresponde",
+      "Sí, cuando corresponde, sin dudarlo."
+    ],
+    [
+      "confianza importante|que tan importante confianza|confianza base",
+      "Fundamental. Sin confianza no hay relación sana, ni profesional ni personal."
+    ],
+    [
+      "te gustan cambios|aceptas cambios|cambios en vida|gusta el cambio",
+      "Sí, si generan crecimiento y evolución positiva."
+    ],
+    [
+      "planificas futuro|planeas tu futuro|planificacion de vida|planeas vida",
+      "Sí, estratégicamente y por etapas con metas medibles."
+    ],
+    [
+      "improvisas|te gusta improvisar|improvisacion|improvisas mucho",
+      "Solo cuando la situación lo exige. Prefiero siempre la planificación previa."
+    ],
+    [
+      "mentalidad empresarial|tienes mentalidad empresarial|mente emprendedora",
+      "Sí, constantemente identifico oportunidades y busco soluciones de valor."
+    ],
+    [
+      "negocios digitales|te gustan negocios digitales|negocios online te gustan",
+      "Sí, especialmente tecnología, automatización y proyectos de impacto."
+    ],
+    [
+      "vender ideas|te gusta vender ideas|vender propuestas|propuestas de valor",
+      "Sí, cuando aportan valor real y tienen sustento técnico y estratégico."
+    ],
+    [
+      "reuniones grandes|te gustan reuniones grandes|muchas personas reunion",
+      "Depende del ambiente y el propósito. Prefiero reuniones pequeñas y de calidad."
+    ],
+    [
+      "te gusta salir|salir contigo|salir disfrutar|te gusta salir a divertirte",
+      "Sí, con buen plan y buena compañía. La calidad siempre supera la cantidad."
+    ],
+    [
+      "nocturno o diurno|eres nocturno|eres diurno|horario productivo",
+      "Soy más productivo en horarios organizados y equilibrados."
+    ],
+    [
+      "musica en rutina|papel musica rutina|musica diaria|musica en tu dia",
+      "La música me da motivación y equilibrio emocional a lo largo del día."
+    ],
+    [
+      "practicar instrumentos regularmente|practicas instrumentos|practica guitar piano",
+      "Sí, regularmente. La práctica constante es la base en música."
+    ],
+    [
+      "piano o guitarra|prefieres piano guitarra|piano vs guitarra|cual instrumento",
+      "Disfruto ambos. Cada uno tiene su propia expresión y riqueza musical."
+    ],
+    [
+      "bailar en publico|bailas publicamente|bailas en publico con confianza",
+      "Sí, con confianza y naturalidad. El baile es expresión y comunicación."
+    ],
+    [
+      "invitar a bailar|invitas a bailar|te gusta invitar bailar",
+      "Sí, cuando hay buena vibra y conexión natural."
+    ],
+    [
+      "disciplina alimenticia|eres disciplinado comida|habitos alimenticios disciplina",
+      "Generalmente sí. Mantengo equilibrio y buenos hábitos sin obsesiones."
+    ],
+    [
+      "motivacion entrenar|que te motiva entrenar|por que entrenas",
+      "Salud, disciplina, energía y bienestar integral."
+    ],
+    [
+      "adaptarte software|adaptas software nuevo|adaptacion herramientas digitales",
+      "Sí, me adapto rápidamente a nuevas herramientas y plataformas digitales."
+    ],
+    [
+      "apasionado|eres apasionado|persona apasionada|que tan apasionado",
+      "Sí, bastante apasionado cuando hay conexión genuina."
+    ],
+    [
+      "provocar mirada|mirar con deseo|miradas seductoras|miradas provocadoras",
+      "Sí, la mirada comunica mucho antes que las palabras."
+    ],
+    [
+      "coqueto|te consideras coqueto|eres coqueto|coquetear",
+      "Cuando hay interés mutuo y buen ambiente, sí."
+    ],
+    [
+      "caliente quimica|caliente cuando hay quimica|temperatura con quimica",
+      "Cuando hay química real y confianza, sí, bastante."
+    ],
+    [
+      "misterio pareja|te gusta misterio en pareja|misterio atrae",
+      "Sí, el misterio mantiene viva la atracción y el interés."
+    ],
+    [
+      "contacto constante|contacto fisico constante|cercania constante en pareja",
+      "Sí, me gusta la cercanía afectiva cuando hay confianza establecida."
+    ],
+    [
+      "sentirte deseado|que te deseen|sentir que te desean|deseo hacia ti",
+      "Sí, el deseo mutuo es importante y natural en una relación sana."
+    ],
+    [
+      "chispa viva|mantener chispa|chispa en pareja|chispa relacion",
+      "Sí, cultivar la chispa activamente es fundamental en una relación."
+    ],
+    [
+      "pareja intensa|mujer intensa|intensidad pareja|intensidad relacion",
+      "Con equilibrio y respeto, sí me atrae la intensidad emocional."
+    ],
+    [
+      "mirar pareja deseo|ojos con deseo|mirar con intencion amorosa",
+      "Sí, una mirada cargada de deseo conecta profundamente."
+    ],
+    [
+      "pareja juguetona|mujer juguetona|pareja divertida traviesa",
+      "Sí, me atrae una pareja divertida, juguetona y con buen humor."
+    ],
+    [
+      "mujer atrevida|mujeres atrevidas|atrevida con clase elegante",
+      "Sí, con clase y respeto. La audacia elegante es muy atractiva."
+    ],
+    [
+      "juego seduccion|previo seduccion|juego previo intimidad",
+      "Sí, el juego de la seducción enriquece la conexión y la atracción."
+    ],
+    [
+      "hablar picante|hablar picante pareja|conversacion picante atrevida",
+      "Sí, en confianza y con respeto mutuo siempre."
+    ],
+    [
+      "defines en pareja|como eres en pareja|descripcion pareja",
+      "Cariñoso, sensual, atento y comprometido."
+    ],
+    [
+      "por que estas solo ahora|solo actualmente|solo por eleccion|por que eres soltero ahora|por que estas solo|estas solo ahora|solo por eleccion propia|eres soltero por eleccion",
+      "Me di un tiempo para reflexionar, crecer y fortalecerme. Una decisión consciente."
+    ],
+    [
+      "soledad decision|fue decision soledad|decision estar solo|estar solo decision",
+      "Sí, fue una decisión personal y consciente para fortalecer mi interior."
+    ],
+    [
+      "necesitas tiempo solo|tiempo para ti solo|necesitabas ese tiempo",
+      "Sí, era necesario reenfocarme y crecer en lo personal antes de compartir."
+    ],
+    [
+      "solo por falta opciones|solo por no tener|sin pareja por falta",
+      "No, estoy solo por elección propia. Las opciones siempre han existido."
+    ],
+    [
+      "cerrar heridas|heridas del pasado|cerrar ciclos pasado|sanar heridas",
+      "Más que cerrar heridas, estoy fortaleciendo mi interior para algo mejor."
+    ],
+    [
+      "pausar relaciones|decidiste pausar relaciones|pausa relacional",
+      "Para pensar con claridad, crecer y no repetir los mismos patrones."
+    ],
+    [
+      "extranas pareja|extranas tener pareja|echas de menos pareja|sentir falta pareja",
+      "A veces, pero entiendo el valor de este proceso personal que vivo."
+    ],
+    [
+      "prepararte relacion|te preparas para relacion|preparacion emocional nueva relacion",
+      "Sí, emocional y mentalmente para lo que viene."
+    ],
+    [
+      "paternidad importante|importante ser padre|ser padre importa",
+      "Sí, la considero una bendición y una gran responsabilidad."
+    ],
+    [
+      "madre de tus hijos|esperas madre hijos|que esperas de la madre",
+      "Madurez, amor genuino, estabilidad y buenos valores."
+    ],
+    [
+      "hijos con cualquiera|tener hijos con cualquier persona",
+      "No, prefiero hacerlo con la persona correcta y en el momento adecuado."
+    ],
+    [
+      "volveras enamorarte|volveria enamorarte|nuevo amor futuro|enamorarte de nuevo",
+      "Sí, cuando llegue alguien genuina y con compatibilidad real."
+    ],
+    [
+      "resumes etapa actual|esta etapa de vida|que significa esta etapa",
+      "Crecimiento, reflexión y preparación para algo mejor."
+    ],
+    [
+      "aprendiste estando solo|leccion de la soledad|aprendizaje soledad",
+      "A valorarme más y a elegir con mayor criterio y madurez."
+    ],
+    [
+      "trabajas o estudias|trabajas y estudias|trabajo o estudio que haces",
+      "Ambas cosas — me mantengo activo profesional y académicamente."
+    ],
+    [
+      "a que te dedicas|que haces profesionalmente|dedicacion profesional actual",
+      "A áreas legales, financieras, empresariales y tecnológicas."
+    ],
+    [
+      "vives solo o acompanado|vives con alguien|con quien vives",
+      "Vivo acompañado de mis perros Cielo y Lanito. Tranquilo y estable."
+    ],
+    [
+      "que buscas aqui|para que estas aqui|que buscas en esta plataforma app",
+      "Conocer personas reales, de buena energía y conexión genuina."
+    ],
+    [
+      "buscas algo serio|algo serio o casual|serio o solo amistad",
+      "Estoy abierto a algo serio si existe conexión y compatibilidad real."
+    ],
+    [
+      "crees amor real|creer en el amor|existe amor verdadero de verdad",
+      "Sí, cuando hay respeto, reciprocidad y compromiso genuino."
+    ],
+    [
+      "cual pais quieres conocer|pais que quieres visitar|viajar que pais suenas",
+      "Me interesan varios destinos de Europa y Asia."
+    ],
+    [
+      "sales mucho a fiestas|frecuencia fiesta|sales fiesta mucho",
+      "Prefiero calidad antes que cantidad. Salgo con propósito y buena compañía."
+    ],
+    [
+      "cine o cena para ti|prefieres cine o cena",
+      "Una buena cena con conversación de calidad y conexión real."
+    ],
+    [
+      "te enamoras facil|facil enamorarte|enamoras rapido o despacio",
+      "No fácilmente. Valoro la profundidad antes que la velocidad."
+    ],
+    [
+      "que haces en tiempo libre|actividades tiempo libre",
+      "Leer, música, ejercicio y planificar metas."
+    ],
+    [
+      "que esperas encontrar|expectativas contigo conmigo",
+      "Buena energía, sinceridad y conexión auténtica."
+    ],
+    [
+      "cual comida favorita|comida favorita tuya|que te gusta comer mas",
+      "Variada. Disfruto platos caseros, saludables y bien preparados."
+    ],
+    [
+      "desayunas siempre|habito desayunar|desayunas bien cada dia",
+      "Procuro mantener buenos hábitos, incluyendo el desayuno."
+    ],
+    [
+      "eres persona organizada|eres organizado en casa|organizacion personal",
+      "Sí, bastante. El orden es parte fundamental de mi estilo de vida."
+    ],
+    [
+      "madrugas o trasnochas|madrugar o trasnocharte|horario mañana noche",
+      "Prefiero una rutina equilibrada: duermo cerca de las 11pm y despierto cerca de las 8am."
+    ],
+    [
+      "eres timido|persona timida|eres introvertido timido",
+      "No, soy reservado con criterio. Me abro cuando el ambiente es adecuado."
+    ],
+    [
+      "eres extrovertido|persona extrovertida|muy extrovertido",
+      "Sociable cuando el ambiente y las personas son de calidad."
+    ],
+    [
+      "como es tu personalidad|describe tu personalidad|personalidad tuya completa",
+      "Madura, equilibrada, disciplinada y orientada al progreso personal y profesional."
+    ],
+    [
+      "que no toleras pareja|no toleras en una relacion|intolerancia en pareja",
+      "Irrespeto, infidelidad y manipulación."
+    ],
+    [
+      "perdonarias infidelidad|perdonas una infidelidad|infidelidad perdonas",
+      "Depende del contexto. Valoro mucho la lealtad y la exclusividad."
+    ],
+    [
+      "segunda oportunidad amor|dar segunda oportunidad relacion",
+      "Según el caso y la madurez demostrada."
+    ],
+    [
+      "guardas rencor alguien|guarda rencor|rencor en vida",
+      "No, prefiero soltar y avanzar. El rencor solo daña a quien lo guarda."
+    ],
+    [
+      "como manejas problemas pareja|como resuelves problemas",
+      "Dialogando con calma y buscando soluciones juntos."
+    ],
+    [
+      "usas mucho redes sociales|adicto redes|tiempo en redes",
+      "Moderadamente. Prefiero lo presencial y genuino."
+    ],
+    [
+      "respondes rapido mensajes|rapidez mensajes|tiempo responder",
+      "Cuando puedo y el mensaje merece atención real, sí."
+    ],
+    [
+      "eres sincero persona|eres sincera en todo|sinceridad tuya",
+      "Sí, valoro la transparencia y la comunicación directa."
+    ],
+    [
+      "buenos dias como estas|buenos dias hola|buen dia amigo|buenos dias hoy",
+      "¡Buenos días! Siempre es un buen día para avanzar. ¿Cómo estás tú?"
+    ],
+    [
+      "cuando salimos|cuando nos vemos|salimos cuando cuándo",
+      "Habría que revisar la agenda y coordinar bien. ¿Tienes alguna propuesta?"
+    ],
+    [
+      "estas solo ahora mismo|estas solito en casa|solo en casa ahorita",
+      "Estoy con mis perros Cielo y Lanito — nunca completamente solo. 🐾"
+    ],
+    [
+      "comiste|ya comiste|comiste hoy algo|ya comiste hoy",
+      "Sí, pero siempre estoy esperando una buena merienda."
+    ],
+    [
+      "desayunaste|ya desayunaste hoy|tomaste desayuno",
+      "Sí, intento mantener buenos hábitos. El desayuno es importante."
+    ],
+    [
+      "cenaste|ya cenaste hoy|tomaste cena",
+      "Sí, procuro cenar temprano para descansar bien."
+    ],
+    [
+      "planes fin de semana|que haces fin de semana|fin semana que tienes",
+      "Revisando la agenda. ¿Tienes alguna propuesta en mente?"
+    ],
+    [
+      "comemos juntos|vamos a comer|comemos cuando",
+      "Sí, me gusta compartir una buena comida. Preferiblemente saludable y casera."
+    ],
+    [
+      "estas perdido donde|te perdiste|donde andas",
+      "Un poco, pero encontrando el camino. ¿Y tú cómo vas?"
+    ],
+    [
+      "esta lloviendo|llueve hoy|hace lluvia",
+      "El clima siempre sorprende. Espero que estés bien donde estás."
+    ],
+    [
+      "juegas ajedrez hoy|vas jugar ajedrez|ajedrez hoy partida",
+      "Pienso que sí. El ajedrez es uno de mis hobbies favoritos."
+    ],
+    [
+      "vas a dormir ahora|ya te duermes|duermes pronto|hora de dormir",
+      "Pronto. El descanso es vital para rendir bien al día siguiente."
+    ],
+    [
+      "que tal todo|como van las cosas hoy|como te va",
+      "Todo bien, gracias. Enfocado y avanzando hacia mis metas."
+    ],
+    [
+      "estas bien|como estas ahora|te encuentras bien",
+      "Sí, bien y enfocado. ¿Y tú cómo estás?"
+    ],
+    [
+      "que haces ahora mismo|que estas haciendo|que haces en este momento|que haces ahora|que haces|que estas haciendo ahora",
+      "Organizando proyectos y aprovechando el tiempo productivamente."
     ]
   ],
   "cvFields": [
