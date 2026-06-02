@@ -689,7 +689,7 @@
       "📏 Mido cerca de 5'11\" — equivalente a unos 180 cm."
     ],
     [
-      "hijo|hijos|eres padre|tiene hijos|tienes ninos|tienes hijos|cuantos hijos|cuantos hijos tienes",
+      "tienes hijos|eres padre|cuantos hijos|tiene hijos|hijo|hijos",
       "👨‍👦 No, no tengo hijos. Por decisiones compartidas con parejas anteriores, priorizando metas académicas, laborales y proyectos personales. En el futuro, en el contexto adecuado, sería algo que valoraría."
     ],
     [
@@ -777,7 +777,7 @@
       "👔 Culta, disciplinada, sociable y orientada al progreso. Alguien que combina rigor profesional con calidez humana."
     ],
     [
-      "romanticismo|eres romantico|haces detalles|eres sentimental|tienes sensibilidad",
+      "eres romantico|eres sentimental|tienes sensibilidad",
       "❤️ Sí, con profundidad emocional y autenticidad. Ser romántico no contradice ser ejecutivo — al contrario, enriquece la inteligencia emocional."
     ],
     [
@@ -807,6 +807,10 @@
     [
       "te has casado|te casaste alguna vez|nunca te has casado|casado",
       "💍 No, nunca me he casado."
+    ],
+    [
+      "tienes hijos|eres padre|tienes ninos|cuantos hijos tienes|hijo|hijos",
+      "👨‍👦 No, no tengo hijos. Por decisiones compartidas con parejas anteriores, priorizando metas académicas, laborales y proyectos personales."
     ],
     [
       "por que no has tenido hijos|motivo no tener hijos",
@@ -839,6 +843,10 @@
     [
       "crees en el amor|crees en amor real|existe el amor verdadero",
       "💫 Sí, cuando existe reciprocidad y compromiso."
+    ],
+    [
+      "eres romantico|romanticismo|haces detalles",
+      "🌹 Sí, con autenticidad y detalles significativos."
     ],
     [
       "que esperas de una companera|companera de vida|pareja de vida",
@@ -1766,7 +1774,7 @@
     ],
     [
       "certificados enlace|donde ver certificados|copias titulos drive|certificados google drive",
-      "📁 Copias de certificados académicos disponibles en: drive.google.com/file/d/1TrOdjjQFUdm6elEXsSgij7vl4XRSOf0e"
+      "📁 Copias de certificados académicos disponibles en: drive.google.com/file/d/1L0cSg99Elq92FGqOF1CrQzN4_gqhYX0A"
     ],
     [
       "objetivo profesional cv|objetivo en cv|objetivo laboral declarado",
@@ -2151,934 +2159,662 @@
     [
       "que haces ahora mismo|que estas haciendo|que haces en este momento|que haces ahora|que haces|que estas haciendo ahora",
       "Organizando proyectos y aprovechando el tiempo productivamente."
-    ],
-    [
-      "por que yamaha r6|elegiste r6|r6 especial|moto r6",
-      "🏍️ La elegí por su desempeño técnico superior, su diseño aerodinámico y porque representa la combinación perfecta entre potencia controlada y precisión — valores que también busco en mi vida profesional."
-    ],
-    [
-      "eres buen conductor|conduces bien|manejas bien",
-      "🚗 Sí, conduzco con responsabilidad y técnica. Tanto en automóvil como en moto, el enfoque y la concentración son claves."
-    ],
-    [
-      "te gusta la velocidad|disfrutas velocidad|velocidad en moto",
-      "⚡ Sí, disfruto la velocidad en contextos seguros. La moto me enseña que potencia sin control es riesgo — igual que en los negocios."
-    ],
-    [
-      "cuantos idiomas hablas|que idiomas hablas|idiomas que dominas|hablas ingles|speaks english",
-      "🗣️ Hablo español nativo, tengo nivel intermedio-avanzado de inglés y comprensión básica de portugués. Mi formación en Harvard y Columbia fortaleció mi inglés académico y técnico."
-    ],
-    [
-      "hablas ingles fluido|nivel de ingles|ingles conversacional",
-      "🇺🇸 Tengo inglés intermedio-avanzado, con mayor fluidez en lectura técnica y redacción académica. Mi formación en Harvard y Columbia me dotó de terminología jurídico-financiera sólida en inglés."
-    ],
-    [
-      "rutina diaria|rutina de manana|como es tu dia|dia tipico",
-      "⏰ Mi rutina comienza temprano: ejercicio matutino, revisión de agenda y correos estratégicos, bloques de trabajo enfocado, y al final del día paseo con Cielo y Lanito en el Mirador Sur."
-    ],
-    [
-      "desayuno favorito|que desayunas|desayuno tipico",
-      "🍳 Desayuno proteínas y carbohidratos de calidad: huevos, avena, frutas. Alimentar bien el cuerpo es parte de la estrategia de rendimiento."
-    ],
-    [
-      "restaurante favorito|donde comes fuera|sales a comer",
-      "🍴 Disfruto restaurantes de ambiente tranquilo y buena cocina. Prefiero lugares donde la calidad del servicio y la comida reflejen respeto por el cliente."
-    ],
-    [
-      "postres favoritos|te gustan los dulces|dulces favoritos",
-      "🍮 Disfruto el flan, el pudín y postres de coco. La dulzura con medida, igual que en la vida."
-    ],
-    [
-      "que tomas en el dia|bebida favorita|que bebes|tomas cafe",
-      "☕ Tomo café en las mañanas — uno de mis rituales diarios. También disfruto agua, jugos naturales y ocasionalmente vino por las noches."
-    ],
-    [
-      "que significo el seminario|porque fuiste al seminario|anos en seminario",
-      "⛪ El seminario fue una etapa de formación profunda en valores, filosofía y autoconocimiento. Me marcó con disciplina, reflexión crítica y sentido de servicio al prójimo."
-    ],
-    [
-      "familia en venezuela|tienes familia en venezuela|parientes venezuela",
-      "👨‍👩‍👧 Sí, tengo familia en Venezuela con quienes mantengo vínculo afectivo. La distancia no rompe los lazos que forjé en mi tierra natal."
-    ],
-    [
-      "extranas venezuela|nostalgia venezuela|como recuerdas venezuela",
-      "🌿 Guanare y Guatire guardan memorias de mi niñez e identidad. Venezuela me dio raíces; República Dominicana me dio alas."
-    ],
-    [
-      "como fue crecer en rd|como te adaptaste rd|adaptacion en dominicana",
-      "🇩🇴 Llegué a los 11 años aproximadamente. Fue un proceso de adaptación cultural, académica y social que me forjó con resiliencia y apertura al cambio."
-    ],
-    [
-      "te sientes dominicano|identidad dominicana|eres de aqui",
-      "🌍 Me siento profundamente integrado a la sociedad dominicana. República Dominicana es mi hogar, donde construí mi carrera, mis relaciones y mi vida."
-    ],
-    [
-      "tienes cedula dominicana|cedula rd|residencia dominicana|nacionalidad",
-      "✅ Sí, tengo cédula de identidad dominicana. Soy residente pleno con todos los derechos y responsabilidades cívicas."
-    ],
-    [
-      "github deyvis|proyectos github|repositorios github|cuantos repositorios",
-      "💻 Tengo 8 repositorios activos en GitHub que incluyen proyectos de hoja de vida digital, chatbots, aplicaciones web y herramientas de gestión. Mi usuario es deyvis213."
-    ],
-    [
-      "que herramientas digitales usas|herramientas tecnologicas|software que usas",
-      "⚙️ Domino más de 50 herramientas digitales: Microsoft 365, SAP, Oracle, Power BI, Tableau, herramientas de IA generativa (Claude, ChatGPT, Copilot), VS Code, GitHub y plataformas de gestión fiscal dominicanas."
-    ],
-    [
-      "usas ia en tu trabajo|como usas inteligencia artificial|ia en tu dia a dia",
-      "🤖 Uso IA generativa diariamente para redacción técnica, análisis de documentos jurídicos, generación de código, automatización de reportes y diseño de soluciones empresariales. Es parte central de mi práctica moderna."
-    ],
-    [
-      "eres programador|sabes programar|que lenguajes programas|programacion",
-      "💻 Domino HTML, CSS y JavaScript a nivel de desarrollo web. Además comprendo Python y SQL para análisis de datos. Mi enfoque está en soluciones web funcionales y aplicaciones prácticas."
-    ],
-    [
-      "que pelicula te gusta|peliculas favoritas|que ves en netflix|series favoritas",
-      "🎬 Prefiero documentales, thrillers jurídicos y películas de estrategia empresarial. También disfruto series de intriga y producciones históricas que conectan con mis intereses profesionales."
-    ],
-    [
-      "que musica escuchas|musica favorita|generos musicales|artistas favoritos",
-      "🎵 Escucho bachata, salsa, baladas en español, música clásica y jazz. En piano toco desde clásico hasta contemporáneo; en guitarra, desde flamenco hasta pop latino."
-    ],
-    [
-      "artista favorito musica|cantante favorito|musico favorito",
-      "🎤 Admiro a Romeo Santos en bachata, Marc Anthony en salsa, y a Beethoven y Chopin en música clásica. Cada uno domina su género con maestría técnica."
-    ],
-    [
-      "que libros recomiendas|libro que recomiendan|libro empresarial favorito",
-      "📚 Recomiendo: 'Padre Rico Padre Pobre' (Kiyosaki), 'Los 7 Hábitos' (Covey), 'El Arte de la Guerra' (Sun Tzu) aplicado a negocios, y 'Pensar Rápido, Pensar Despacio' (Kahneman). Son pilares del pensamiento estratégico."
-    ],
-    [
-      "deporte favorito|te gusta el futbol|deporte que practicas|deporte favorito",
-      "⚽ Sigo el fútbol con interés y disfruto el tenis. En cuanto a práctica activa, me mantengo con correr, pesas y la moto como actividad de alta concentración."
-    ],
-    [
-      "equipo favorito futbol|que equipo apoyas|equipo de futbol",
-      "🏆 Sigo con interés el Barcelona de España y la selección de Venezuela. El fútbol me enseña trabajo en equipo y gestión táctica bajo presión."
-    ],
-    [
-      "barrio donde vives|zona que vives|donde en santo domingo|bella vista",
-      "📍 Vivo en Bella Vista, Santo Domingo — una zona elegante y bien ubicada de la capital dominicana que refleja mi estilo de vida y mis valores."
-    ],
-    [
-      "por que bella vista|elegiste bella vista|que te gusta bella vista",
-      "🏡 Bella Vista ofrece tranquilidad, accesibilidad y un ambiente propicio para el trabajo intelectual. Está cerca de los principales centros de negocios y tiene el Mirador Sur para mis paseos diarios."
-    ],
-    [
-      "cuanto tiempo llevas en bella vista|cuando llegaste bella vista|anos bella vista",
-      "🏘️ He residido en Bella Vista durante varios años. Es el hogar que elegí como adulto establecido y donde he construido mi base de vida personal y profesional."
-    ],
-    [
-      "como es tu casa|como es tu hogar|descripcion de tu casa",
-      "🏠 Un espacio organizado, funcional y con ambiente tranquilo. Refleja mi personalidad: orden, elegancia sin ostentación y espacios dedicados al trabajo y la lectura."
-    ],
-    [
-      "que musica tocas en piano|repertorio piano|tocas clasico piano",
-      "🎹 En piano interpreto música clásica (Beethoven, Chopin, Bach), baladas latinoamericanas y algo de jazz contemporáneo. La disciplina del piano clásico exige la misma precisión que el análisis financiero."
-    ],
-    [
-      "que tocas en guitarra|repertorio guitarra|guitarra clasica o electrica",
-      "🎸 En guitarra toco pop latino, bachata, flamenco y baladas. Prefiero la guitarra acústica por su riqueza tonal y versatilidad emocional."
-    ],
-    [
-      "hace cuanto tocas musica|cuantos anos tocas|cuando aprendiste musica",
-      "🎵 Llevo más de 15 años tocando. Comencé en el seminario con formación musical formal y continué desarrollando el repertorio a lo largo de mi vida adulta."
-    ],
-    [
-      "das clases a quien|alumnos musica|quien enseñas musica",
-      "🎓 Enseño a personas de distintas edades que deseen aprender instrumentos desde cero o mejorar su técnica. Mi metodología combina teoría musical con práctica inmediata."
-    ],
-    [
-      "metodologia de ensenanza musica|como enseñas musica|metodo musical",
-      "🎼 Mi metodología une teoría musical básica, desarrollo del oído, lectura de partituras y práctica progresiva. El alumno aprende de forma estructurada, no solo empírica."
-    ],
-    [
-      "cuanto cobra clases musica|precio clases musica|tarifa clases musica",
-      "💰 Las tarifas de mis clases de música varían según el nivel, la frecuencia y el tipo de instrumento. Consultar directamente al +1 (829) 663-2122 o Deyvis213@gmail.com."
-    ],
-    [
-      "que tipo de ajedrez practicas|ajedrez nivel|nivel ajedrez",
-      "♟️ Juego ajedrez principalmente por placer y desarrollo estratégico. Mi nivel es avanzado aficionado — disfruto más el análisis posicional que la memorización de aperturas."
-    ],
-    [
-      "jugaste torneos ajedrez|torneos chess|competencia ajedrez",
-      "♟️ He participado en partidas recreativas e informales. El ajedrez para mí es más un laboratorio de pensamiento estratégico que una competencia formal."
-    ],
-    [
-      "que color prefieres|color favorito|colores que te gustan",
-      "🎨 Prefiero tonos sobrios y elegantes: verde oscuro, negro, dorado y gris. Colores que transmiten seriedad, sofisticación y autoridad."
-    ],
-    [
-      "que perfume usas|usa colonia|fragancia favorita",
-      "🌿 Prefiero fragancias sofisticadas, no invasivas — aquellas que comunican presencia sin exageración."
-    ],
-    [
-      "que sueño tienes|sueno de vida|meta maxima vida|sueno mas grande",
-      "🌟 Contribuir a la modernización tecnológica de las instituciones dominicanas mediante IA, dejar un legado de excelencia académica e institucional, y vivir en paz con propósito."
-    ],
-    [
-      "donde te ves en 5 anos|vision 5 anos|proyeccion 5 anos",
-      "📅 En 5 años me veo con el Doctorado culminado, liderando proyectos de IA aplicada a empresas públicas y privadas, y posiblemente con un proyecto editorial propio."
-    ],
-    [
-      "donde te ves en 10 anos|vision 10 anos|proyeccion 10 anos",
-      "🔭 En 10 años, consolidado como referente regional en IA aplicada a Derecho y Finanzas, con impacto institucional medible y una vida personal plena y estable."
-    ],
-    [
-      "que legado quieres dejar|legado profesional|impacto en sociedad",
-      "🏛️ Un legado de modernización, ética institucional y elevación del nivel técnico-profesional en la República Dominicana. Quiero que los sistemas sean más justos, eficientes y tecnológicos."
-    ],
-    [
-      "proyecto doctorado tema|investigacion doctoral|ia productividad empresarial|doctorado ia om",
-      "📖 Mi investigación doctoral en la Universidad Dominicana O&M se enfoca en IA aplicada a la productividad empresarial — cómo los modelos de aprendizaje automático pueden optimizar procesos administrativos, jurídicos y financieros en empresas dominicanas."
-    ],
-    [
-      "cuanto llevas en doctorado|anos doctorado|avance doctorado",
-      "🎓 Estoy en etapa avanzada de candidatura doctoral. El proceso de investigación es intenso y requiere rigor metodológico y dedicación constante paralela a mi práctica profesional."
-    ],
-    [
-      "donde esta tu oficina|tienes oficina|oficina en bella vista",
-      "🏢 Mi oficina está en Calle Hellios No. 147, Residencial Pronasa, Bella Vista, Santo Domingo. Apartado Postal 10111."
-    ],
-    [
-      "como contactarte|como te contacto|como puedo contactar|correo deyvis|telefono deyvis",
-      "📞 Puedes contactarme:\n• 📱 Teléfono/WhatsApp: +1 (829) 663-2122\n• 📧 Email: Deyvis213@gmail.com\n• 🏢 Oficina: Calle Hellios No. 147, Residencial Pronasa, Bella Vista, S.D.\n• 💻 GitHub: github.com/deyvis213"
-    ],
-    [
-      "que servicios ofreces|servicios que brindas|servicios ramirez asociados|firma ramirez asociados",
-      "🏛️ A través de Ramírez & Asociados ofrezco:\n• Consultoría administrativa y estratégica\n• Auditoría interna y control financiero\n• Asesoría jurídica (tributaria, administrativa, civil)\n• Gestión de comercio exterior y aduanas\n• Transformación digital con IA\n• Formación y capacitación empresarial\n• Clases de música e instrumentos\n\nContáctame: +1 (829) 663-2122"
-    ],
-    [
-      "cual es el nombre de tu firma|nombre firma|ramirez y asociados|empresa de deyvis",
-      "🏛️ Mi firma se llama Ramírez & Asociados — una firma boutique de consultoría multidisciplinaria con enfoque en excelencia, ética y soluciones integrales para empresas y personas en República Dominicana."
-    ],
-    [
-      "eres disponible para contratar|disponible para trabajo|buscas empleo|esta en busca de empleo",
-      "✅ Sí, estoy disponible para posiciones de consultoría, dirección ejecutiva, asesoría y proyectos de alto impacto. Mi disponibilidad es inmediata y sin restricciones. Contáctame: +1 (829) 663-2122."
-    ],
-    [
-      "cuanto cobras por consultoria|honorarios consultoria|tarifa profesional",
-      "💼 Mis honorarios varían según el alcance del proyecto, la complejidad y la duración. Para cotizaciones específicas, contáctame directamente: Deyvis213@gmail.com o +1 (829) 663-2122."
-    ],
-    [
-      "tienes experiencia en ensenanza|que ensenaste|has dado clases universitarias",
-      "🎓 Mi formación académica de máximo nivel (Doctorado en curso, 3 Maestrías, 4 Licenciaturas) y mi vasta práctica profesional me posicionan para impartir cátedra en Derecho, Administración, Contabilidad, Finanzas e IA Aplicada."
-    ],
-    [
-      "cual es tu certificacion tributaria|certificacion dgii|certificado tributario",
-      "📜 Cuento con certificación tributaria que avala formalmente mi dominio del régimen fiscal dominicano, los procedimientos de la DGII y las estrategias de planificación fiscal legal ante organismos reguladores."
-    ],
-    [
-      "cuantas certificaciones tienes|cuantos certificados|65 certificaciones",
-      "🏅 Cuento con más de 65 certificaciones y cursos complementarios en áreas como tributación, auditoría, derecho, comercio internacional, administración, IA y tecnología — de instituciones nacionales e internacionales."
-    ],
-    [
-      "que es unicaribe|donde estudiaste derecho|derecho unicaribe",
-      "🎓 UNICARIBE (Universidad del Caribe) es donde obtuve mis licenciaturas en Derecho, Relaciones Internacionales y Psicología Clínica. Una institución universitaria dominicana de sólido prestigio académico."
-    ],
-    [
-      "que estudiaste en uasd|maestria uasd|uasd derecho",
-      "🎓 En la UASD (Universidad Autónoma de Santo Domingo) obtuve dos maestrías: Derecho Económico y Financiero, y Auditoría Interna — ambas con rigor académico e impacto práctico directo."
-    ],
-    [
-      "donde estudiaste contabilidad|licenciatura contabilidad|ufhec contabilidad",
-      "🎓 Obtuve mi Licenciatura en Contabilidad en UFHEC (Universidad Federico Henríquez y Carvajal), complementando así mi formación jurídica con sólida base financiero-contable."
-    ],
-    [
-      "harvard que tomaste|que estudiaste en harvard|harvard economics|banca harvard",
-      "🎓 En Harvard University completé el curso 'Economics of Money and Banking' — una formación rigurosa sobre sistemas monetarios, banca central y política financiera internacional."
-    ],
-    [
-      "columbia university que tomaste|que estudiaste en columbia|filosofia derecho columbia",
-      "🎓 En Columbia University completé 'Philosophy and Rule of Law' — formación que afianzó mi visión del Estado de Derecho como pilar de la eficiencia económica e institucional."
-    ],
-    [
-      "que tomaste en unam|unam anticorrupcion|anticorrupcion unam",
-      "🎓 En la UNAM completé el programa 'Anticorrupción: Conceptos y Perspectiva Práctica' — formación que aplicó directamente a mi práctica administrativa e institucional."
-    ],
-    [
-      "cual era tu rol en denecu|director denecu|zona franca bonao denecu",
-      "🏢 En DENECU, SRL fui Director durante 9 años (2014–2023). Era una zona franca en Bonao dedicada a exportación agrícola. Lideré planificación financiera, control administrativo, gestión de pagos y supervisión integral del personal."
-    ],
-    [
-      "grupo alonzo que hacías|contador grupo alonzo|experiencia carnicos",
-      "🥩 En Grupo Alonzo fui Contador de 2008 a 2013. Llevé la contabilidad bajo NIIF, cumplimiento fiscal completo (ITBIS, ISR, NCF, 606-607-608), control de costos de producción y elaboración de estados financieros del sector cárnico."
-    ],
-    [
-      "que tan bien domina excel|excel avanzado|excel financiero|power bi",
-      "📊 Domino Excel a nivel avanzado: tablas dinámicas, macros, modelos financieros, análisis de sensibilidad y dashboards. También uso Power BI y Tableau para visualización de datos ejecutivos."
-    ],
-    [
-      "dominas sap|oracle dominas|erp que maneja|dynamics 365",
-      "⚙️ Tengo conocimiento funcional de SAP, Oracle Financials y Microsoft Dynamics 365 — los principales ERP corporativos para gestión financiera, inventarios y procesos empresariales integrados."
-    ],
-    [
-      "que es bind|app bind|app de citas bind",
-      "📱 Bind es un proyecto de app de citas móvil que estoy desarrollando — un emprendimiento tecnológico personal que demuestra mi capacidad de crear soluciones digitales completas, desde el diseño UX hasta la lógica de funcionamiento."
-    ],
-    [
-      "que proyectos digitales tienes|proyectos web|emprendimientos digitales",
-      "💻 Tengo 8 repositorios activos en GitHub incluyendo: esta hoja de vida interactiva, Bind (app de citas), sitios web corporativos, chatbots, y herramientas de gestión. Cada proyecto demuestra dominio práctico del ecosistema digital."
-    ],
-    [
-      "que es tix|tiqueo rd|boleteria boutique|app eventos",
-      "🎟️ TiqueoRD es un proyecto de plataforma boutique de boletería digital que diseñé — para programar eventos, vender entradas y emitir QR seguros en República Dominicana."
-    ],
-    [
-      "que piensas de la educacion dominicana|educacion rd|educacion republica dominicana",
-      "🎓 La educación dominicana tiene potencial enorme, pero necesita mayor inversión en formación técnica especializada, integración de IA en el currículo universitario y mayor vinculación entre academia y empresa."
-    ],
-    [
-      "que piensas de la economia dominicana|economia rd|economia republica dominicana",
-      "📈 República Dominicana tiene una economía con fundamentos sólidos y crecimiento sostenido, pero necesita mayor diversificación productiva, reducción de informalidad y modernización del sistema tributario."
-    ],
-    [
-      "que opinas del comercio exterior rd|exportaciones dominicanas|importaciones rd",
-      "🌎 El comercio exterior dominicano tiene enorme potencial subutilizado. Una mejor aplicación del DR-CAFTA, simplificación aduanera y fomento de exportaciones con valor agregado transformarían la economía."
-    ],
-    [
-      "que significa ramirez asociados|filosofia firma|mision ramirez asociados",
-      "🏛️ Ramírez & Asociados es una firma boutique construida sobre excelencia técnica, ética profesional y visión multidisciplinaria. Nuestra misión: ofrecer soluciones integrales que protejan, optimicen y hagan crecer a nuestros clientes."
-    ],
-    [
-      "tienes socios|trabajas con socios|equipo ramirez asociados",
-      "🤝 Opero como director principal con una red de colaboradores especializados según el área de cada proyecto — contadores, abogados, tecnólogos y consultores asociados."
-    ],
-    [
-      "como defines exito|que es exito para ti|definicion de exito",
-      "🌟 Éxito es lograr metas con integridad, mantener paz mental, generar impacto positivo en quienes me rodean y dejar un legado de valor. No es solo acumulación — es trascendencia con propósito."
-    ],
-    [
-      "que te motiva cada dia|motivacion diaria|que te impulsa",
-      "⚡ Me motiva la posibilidad de resolver problemas complejos con soluciones elegantes. Cada día es una oportunidad de aplicar conocimiento, crear valor y avanzar hacia mis metas a largo plazo."
-    ],
-    [
-      "que haces cuando fracasas|ante el fracaso|como manejas fracasos",
-      "💪 Analizo qué falló con rigor técnico, extraigo la lección específica y reformulo la estrategia. El fracaso es datos de retroalimentación — no una sentencia."
-    ],
-    [
-      "que te enoja|que te molesta|que no soportas|qué te irrita",
-      "🚫 La impuntualidad, la deshonestidad y la mediocridad voluntaria. También me molesta la falta de rigor técnico cuando hay recursos suficientes para hacerlo bien."
-    ],
-    [
-      "eres impaciente|tienes paciencia|como manejas la espera",
-      "⏳ Soy disciplinado con el tiempo y puedo frustrarme cuando otros no lo valoran igual. Sin embargo, la formación jurídica y el ajedrez me han enseñado que algunos procesos requieren tiempo estratégico."
-    ],
-    [
-      "que te da mas miedo|miedos|cual es tu mayor temor",
-      "💭 El estancamiento intelectual y la obsolescencia profesional. Por eso me mantengo en constante actualización y formación, especialmente en IA y tecnología emergente."
-    ],
-    [
-      "eres introvertido o extrovertido|personalidad extrovertido|tipo de personalidad",
-      "🧠 Soy introvertido con habilidades extrovertidas — proceso internamente, pero me comunico con seguridad y calidez cuando el contexto lo requiere. La psicología me ayuda a entender y manejar esa dualidad."
-    ],
-    [
-      "eres perfeccionista|perfeccionismo|eres muy exigente contigo mismo",
-      "🎯 Sí, tengo tendencia al perfeccionismo técnico. Lo gestiono canalizando la exigencia hacia resultados de calidad sin bloquear la ejecución — el perfeccionismo útil produce excelencia; el paralizante produce demora."
-    ],
-    [
-      "que haces para relajarte|como te relajas|descanso mental|relajacion",
-      "🎵 Toco piano o guitarra, paseo con mis perros en el Mirador Sur, cocino, leo o juego ajedrez. Cada actividad me reconecta con mis valores y descarga la tensión acumulada."
-    ],
-    [
-      "usas tecnicas productividad|tecnica productividad|pomodoro gestion tiempo",
-      "⏱️ Sí, uso técnicas como bloques de tiempo enfocado (similar al método Pomodoro), priorización por impacto y listas de tareas categorizadas por urgencia e importancia."
-    ],
-    [
-      "cuantos titulos tienes|cuantos grados academicos|total de titulos",
-      "🎓 Tengo 7 títulos académicos formales: 1 Doctorado en curso + 3 Maestrías + 4 Licenciaturas, complementados con formación en Harvard, Columbia y UNAM. Más de 65 certificaciones adicionales."
-    ],
-    [
-      "por que tantos titulos|por que estudiaste tanto|motivo de tantos estudios",
-      "📚 Cada título representa un área de conocimiento que se integra sinérgicamente. No son colecciones — son herramientas complementarias que me permiten analizar problemas desde múltiples perspectivas simultáneas."
-    ],
-    [
-      "te arrepientes de algo academico|algo que habrias cambiado en estudios",
-      "💡 Habría invertido más tiempo temprano en tecnología y programación. Sin embargo, cada camino recorrido tiene su razón de ser — mi perfil multidisciplinario es el resultado de decisiones deliberadas."
-    ],
-    [
-      "como financiaste tus estudios|como pagaste la universidad|financiamiento academico",
-      "💼 Con trabajo y esfuerzo personal. Mi trayectoria profesional financió mi formación académica — una decisión de inversión propia en mi capital humano más valioso."
-    ],
-    [
-      "que recuerdas de harvard|experiencia harvard|harvard como fue",
-      "🎓 Una experiencia académica rigurosa e intensa. El nivel de análisis exigido y la perspectiva global de los estudiantes y profesores redefinieron mi forma de entender la economía y el sistema financiero internacional."
-    ],
-    [
-      "que edad tienes|cuantos anos tienes|anos cumplidos|fecha nacimiento",
-      "🎂 Tengo más de 40 años. Mi fecha exacta no es pública, pero mi trayectoria de más de 17 años en posiciones de alta responsabilidad habla de madurez y experiencia consolidada."
-    ],
-    [
-      "que signo eres|signo zodiacal|signo del zodiaco",
-      "⭐ Prefiero no definirme por el zodiaco — me identifico más con mi historia, valores y acciones que con un sistema astrológico. Dicho eso, mis características de disciplina y análisis son universalmente reconocibles."
-    ],
-    [
-      "adios|hasta luego|hasta pronto|bye|chao",
-      "👋 ¡Hasta pronto! Fue un placer presentarte el perfil de Deyvis Ignacio Ramírez Contreras. Para consultas directas: +1 (829) 663-2122 o Deyvis213@gmail.com."
-    ],
-    [
-      "quien creo este chatbot|quien hizo el chatbot|como funciona el chatbot|tecnologia del chatbot",
-      "🤖 Este chatbot fue diseñado y desarrollado por el propio Deyvis Ignacio Ramírez Contreras como parte de su hoja de vida digital interactiva — una demostración práctica de sus capacidades en desarrollo web e inteligencia artificial aplicada."
-    ],
-    [
-      "que tan confiable es la informacion|informacion real|datos reales chatbot",
-      "✅ Toda la información presentada en este chatbot es real y verificable. Corresponde al perfil auténtico de Deyvis Ignacio Ramírez Contreras, M.A., PhD(c)."
-    ],
-    [
-      "tiene cielo y lanito|nombre de perros|mascotas cielo lanito|bichon maltes yorkie",
-      "🐾 Sí — sus dos compañeros inseparables son:\n• Cielo 🤍 — Bichón Maltés, 3 años\n• Lanito 🐶 — Yorkie, 3 años\nLos pasea cada día en el Mirador Sur. Son parte central de su equilibrio personal."
-    ],
-    [
-      "eres ambicioso|eres muy ambicioso|nivel de ambicion",
-      "🎯 Sí, con dirección y propósito. Mi ambición está orientada al crecimiento institucional, al legado académico y al impacto positivo en mi entorno — no a la acumulación por sí misma."
-    ],
-    [
-      "que tipo de jefe eres|como lideras equipos|jefe o lider",
-      "👔 Soy líder más que jefe. Prefiero influir con competencia técnica y ejemplo antes que con autoridad jerárquica. Exijo resultados, pero invierto en el desarrollo de mi equipo."
-    ],
-    [
-      "cuantos empleados has dirigido|tamano de equipo|gestion equipo",
-      "👥 He dirigido equipos de diversas dimensiones — desde equipos técnicos pequeños hasta operaciones corporativas con múltiples departamentos. Mi experiencia en DENECU incluyó supervisión integral de personal administrativo, operativo y logístico."
-    ],
-    [
-      "que carrera recomendarias hoy|que estudiar hoy|carrera del futuro",
-      "🔭 Recomiendo: Derecho + Tecnología, Ingeniería de Datos, Ciencias Actuariales e IA Aplicada a negocios. La convergencia de conocimiento técnico con comprensión jurídico-financiera es el perfil más demandado del futuro."
-    ],
-    [
-      "que piensas de la ia|opinion sobre inteligencia artificial|ia en rd|ia dominicana",
-      "🤖 La IA es la revolución industrial del siglo XXI. República Dominicana debe preparar a su capital humano y modernizar sus instituciones públicas y privadas con urgencia. Quien no adopte IA pierde competitividad irreversiblemente."
-    ],
-    [
-      "tu color de carro preferido|color de moto|yamaha r6 color",
-      "🏍️ Mi Yamaha R6 es una máquina de alto rendimiento. Prefiero colores deportivos y sobrios que proyecten seriedad técnica — no ostentación."
-    ],
-    [
-      "que te falta por lograr|que queda por hacer|metas pendientes",
-      "🎯 Culminar el Doctorado, publicar investigación de impacto en IA aplicada, consolidar Ramírez & Asociados a nivel regional, y construir una vida personal plena con la compañía correcta."
-    ],
-    [
-      "eres feliz|estas feliz|felicidad en tu vida",
-      "😊 Sí, con profundidad y gratitud. La felicidad que valoro no es la euforia pasajera — es la serenidad de avanzar con propósito, salud, buenos proyectos y relaciones auténticas."
-    ],
-    [
-      "cómo te defines profesional y personalmente|definicion personal|como te defines persona",
-      "Me considero una persona multidisciplinaria, disciplinada y orientada al crecimiento. Integro conocimientos en derecho, contabilidad, relaciones internacionales, psicología e inteligencia artificial, manteniendo siempre equilibrio entre lo profesional, lo humano y lo espiritual."
-    ],
-    [
-      "cómo sueles organizar tu tiempo|gestion del tiempo|como te organizas",
-      "Me gusta planificar mis agendas con anticipación, estructurar prioridades y mantener control de mis responsabilidades personales y profesionales."
-    ],
-    [
-      "qué importancia tiene el estudio en tu vida|el estudio para ti|educacion importancia",
-      "Es parte esencial de mi crecimiento. Siempre estoy aprendiendo, investigando y actualizándome en diferentes áreas."
-    ],
-    [
-      "te gusta la música|te gusta oir musica",
-      "Sí, mucho. La música representa equilibrio emocional y creatividad en mi vida."
-    ],
-    [
-      "cómo describirías tu personalidad|tu personalidad|como eres de caracter",
-      "Soy tranquilo, sociable, disciplinado, profundo y orientado a la paz y el progreso."
-    ],
-    [
-      "qué no toleras dentro de una relación|que no toleras|limites en pareja",
-      "La deslealtad, la irresponsabilidad y la falta de respeto."
-    ],
-    [
-      "cómo manejas los conflictos personales|resolucion de problemas|discusion de pareja",
-      "Conversando con calma, buscando soluciones racionales y evitando conflictos innecesarios."
-    ],
-    [
-      "actualmente estás soltero|tienes pareja|tienes novia|estas casado",
-      "Sí, actualmente estoy soltero y enfocado en mi paz y crecimiento personal."
-    ],
-    [
-      "por qué dices que estás solo|motivo de estar solo",
-      "Porque estoy enfocado en Dios, en mi estabilidad y esperando encontrar a alguien compatible."
-    ],
-    [
-      "crees en el amor verdadero|amor verdadero",
-      "Sí, cuando existe reciprocidad, respeto y compromiso genuino."
-    ],
-    [
-      "cómo es tu rutina física|ejercicio rutina",
-      "Entreno, corro, practico yoga y trato de mantener hábitos saludables."
-    ],
-    [
-      "vas frecuentemente al gimnasio|vas al gym|body shop smart fit",
-      "Sí, entreno regularmente en Body Shop Gym y Smart Fit."
-    ],
-    [
-      "qué importancia le das al ejercicio|porque haces ejercicio",
-      "El ejercicio fortalece la disciplina, la salud física y la claridad mental."
-    ],
-    [
-      "te consideras una persona saludable|vida saludable",
-      "Sí, cuido mi salud física y mental mediante hábitos equilibrados."
-    ],
-    [
-      "has pasado por momentos difíciles emocionalmente|tuviste depresion|etapa dificil",
-      "Sí, hace años enfrenté una depresión fuerte que me hizo más resiliente y consciente."
-    ],
-    [
-      "te gusta viajar",
-      "Sí, viajar me permite ampliar mi visión cultural y profesional."
-    ],
-    [
-      "qué países has visitado|que paises conoces|viajes realizados",
-      "Estados Unidos, Alemania, Panamá y Colombia."
-    ],
-    [
-      "qué te aportan los viajes|porque viajas",
-      "Conocimiento cultural, nuevas perspectivas y aprendizaje continuo."
-    ],
-    [
-      "por qué emigraste|motivo de emigrar|porque saliste de venezuela",
-      "Por razones familiares y buscando mejores oportunidades de crecimiento."
-    ],
-    [
-      "dónde viven tus padres actualmente|donde viven tus papas",
-      "Mis padres viven en Baní."
-    ],
-    [
-      "dónde está tu madre|tu mama|donde vive tu madre",
-      "Ella vive en Baní."
-    ],
-    [
-      "qué aprendiste en el seminario|lecciones del seminario",
-      "Disciplina, pensamiento crítico, reflexión y crecimiento espiritual."
-    ],
-    [
-      "qué hobbies tienes además de trabajar|tus hobbies|pasatiempos",
-      "Ajedrez, música, lectura, cocina, baile, diseño web, playa y ejercicio."
-    ],
-    [
-      "te gusta la televisión|ves television|series peliculas tv",
-      "No mucho, prefiero actividades más productivas o creativas."
-    ],
-    [
-      "cómo ves el dinero|el dinero para ti",
-      "Siempre hay dinero; el reto real es la cantidad y cómo administrarla inteligentemente."
-    ],
-    [
-      "te gusta invertir|haces inversiones",
-      "Sí, especialmente cuando las inversiones están bien analizadas."
-    ],
-    [
-      "cómo eres en convivencia|como eres viviendo juntos|compartir casa",
-      "Ordenado, limpio, tranquilo y respetuoso."
-    ],
-    [
-      "te gusta el orden en casa|eres ordenado",
-      "Sí, el orden y la armonía me ayudan a mantener paz mental."
-    ],
-    [
-      "qué mascotas tienes|tienes perros|cielo y lanito",
-      "Un Bichón Maltés llamado Cielo y un Yorkie llamado Lanito."
-    ],
-    [
-      "qué ritmos bailas|que bailas|bachata salsa merengue",
-      "Bachata sensual, bachata tradicional, salsa y merengue."
-    ],
-    [
-      "qué tipo de salsa prefieres|salsa on2 cubana casino",
-      "Salsa On2, estilo cubano y casino."
-    ],
-    [
-      "cómo manejas el estrés|control de estres",
-      "Con organización, ejercicio, enfoque y control emocional."
-    ],
-    [
-      "qué valoras más en la vida|lo mas importante para ti",
-      "La paz, la salud, el crecimiento, el amor y dejar un legado positivo."
-    ],
-    [
-      "qué buscas construir actualmente|tus metas actuales",
-      "Una vida estable, productiva y equilibrada, acompañada de buenas relaciones."
-    ],
-    [
-      "qué haces normalmente por las noches|rutina de noche",
-      "Leo, organizo pendientes, reflexiono o descanso."
-    ],
-    [
-      "a qué hora te acuestas generalmente|a que hora te duermes",
-      "Cerca de las 11:00 p.m."
-    ],
-    [
-      "a qué hora acostumbras despertar|a que hora te levantas",
-      "Alrededor de las 8:00 a.m."
-    ],
-    [
-      "te gustan las películas|ver peliculas",
-      "Sí, especialmente las que tienen buena historia y emoción."
-    ],
-    [
-      "te gusta manejar vehículos|manejas carro o moto",
-      "Sí, aunque disfruto más conducir motocicleta."
-    ],
-    [
-      "qué motocicleta tienes|moto yamaha r6",
-      "Una Yamaha R6."
-    ],
-    [
-      "cómo describirías tu energía personal|tu vibra o energia",
-      "Serena, enfocada y orientada al progreso."
-    ],
-    [
-      "qué significa para ti una relación sana|definicion de relacion sana",
-      "Una relación estable, madura, tranquila y basada en comunicación."
-    ],
-    [
-      "qué opinas de la infidelidad|la infidelidad",
-      "Rompe la confianza y deteriora cualquier vínculo."
-    ],
-    [
-      "cómo reaccionas ante una traición|traicion manejo",
-      "Tomo distancia y sigo adelante con madurez."
-    ],
-    [
-      "qué tipo de ambiente disfrutas|entorno preferido",
-      "Espacios tranquilos, positivos y organizados."
-    ],
-    [
-      "te gusta la playa|vas a la playa",
-      "Sí, la playa me transmite paz y claridad mental."
-    ],
-    [
-      "qué tan importante es la paz mental para ti|importancia de la paz mental",
-      "Es prioritaria; sin paz mental no hay productividad ni bienestar."
-    ],
-    [
-      "te consideras adaptable|capacidad de adaptacion",
-      "Sí, vivir en diferentes contextos y asumir múltiples roles me hizo muy adaptable."
-    ],
-    [
-      "cómo te defines en una frase corta|definicion en una frase",
-      "Un hombre disciplinado, reflexivo y orientado a la paz y el crecimiento."
-    ],
-    [
-      "tiempo libre|que haces tiempo libre|cuando tienes tiempo libre",
-      "Siempre estoy trabajando, pero también voy al gym, toco guitarra y piano."
-    ],
-    [
-      "tenias ayuda en tu|ayuda en tu casa",
-      "Sí, antes tenía una empleada doméstica."
-    ],
-    [
-      "que planes tienes para|planes tienes para manana",
-      "Estoy organizando mi agenda y actividades."
-    ],
-    [
-      "que vamos hacer|que hacemos|que propones|que haremos",
-      "Lo que tú consideres."
-    ],
-    [
-      "vas a merendar|merienda|vas a comer algo",
-      "Espero el momento exacto."
-    ],
-    [
-      "estas molesto|estas enojado|estas bravo",
-      "No."
-    ],
-    [
-      "has ido psicologo|fuiste psicologo|vas al psicologo|terapia psicologica",
-      "Sí."
-    ],
-    [
-      "ver television|ves tv|te gusta la tv|series television",
-      "No mucho."
-    ],
-    [
-      "has viajado fuera|viajado al extranjero|que paises conoces viajado",
-      "Sí, he viajado a Alemania, Colombia y Estados Unidos."
-    ],
-    [
-      "te gusta estudiar|disfrutas estudiar|eres estudioso",
-      "Sí, siempre estoy estudiando."
-    ],
-    [
-      "trabajas actualmente|estas trabajando|tienes trabajo",
-      "Sí, trabajo de manera independiente."
-    ],
-    [
-      "a que edad viniste|que edad viniste de",
-      "Vine a los 16 años."
-    ],
-    [
-      "donde viven tus padres|donde viven tus padres",
-      "Ellos viven en Baní."
-    ],
-    [
-      "te gusta mantenerte ocupado|siempre estas ocupado|eres muy ocupado",
-      "Sí, siempre estoy trabajando y estudiando."
-    ],
-    [
-      "que haces cuando quieres|haces cuando quieres relajarte",
-      "Leer, cocinar o ir a la playa."
-    ],
-    [
-      "que tipo de vida llevas|como es tu vida|describe tu vida",
-      "Una vida enfocada en trabajo, aprendizaje y tranquilidad."
-    ],
-    [
-      "te consideras trabajador|eres muy trabajador|trabajas mucho",
-      "Sí, siempre estoy trabajando."
-    ],
-    [
-      "tienes rutina diaria|tienes rutina|como es tu rutina",
-      "Sí, organizo mis actividades y agenda."
-    ],
-    [
-      "que prefieres hacer en casa|que haces en casa|actividades en casa",
-      "Leer, cocinar y tocar instrumentos."
-    ],
-    [
-      "te gusta la tranquilidad|buscas tranquilidad|eres tranquilo",
-      "Sí."
-    ],
-    [
-      "que buscas en la|buscas en la vida",
-      "Paz, crecimiento y encontrar a alguien especial."
-    ],
-    [
-      "tienes interes en el|interes en el crecimiento",
-      "Sí, siempre estudio y aprendo."
-    ],
-    [
-      "te gusta leer libros|lees mucho|eres lector de libros",
-      "Sí."
-    ],
-    [
-      "te gusta compartir tiempo|compartir con alguien|pasar tiempo con otros",
-      "Sí."
-    ],
-    [
-      "que haces por las|haces por las noches",
-      "Trabajo, estudio o planeo mis actividades."
-    ],
-    [
-      "como defines tu mentalidad|como defines tu mentalidad",
-      "Positiva y enfocada."
-    ],
-    [
-      "te gusta improvisar o planificar|improvisar o planificar|prefieres planificar",
-      "Me gusta planificar."
-    ],
-    [
-      "que valoras en una|valoras en una persona",
-      "La tranquilidad, sinceridad y conexión."
-    ],
-    [
-      "te gusta aprender cosas nuevas|aprendes constantemente|te gusta aprender",
-      "Sí, constantemente."
-    ],
-    [
-      "como es tu estilo de vida|que estilo de vida tienes|estilo de vida tuyo",
-      "Activo, trabajador y tranquilo."
-    ],
-    [
-      "eres sociable|eres social|te gusta socializar",
-      "Sí, aunque también disfruto mi espacio."
-    ],
-    [
-      "que importancia tiene dios|importancia tiene dios en",
-      "Muy importante."
-    ],
-    [
-      "te gustaria tener pareja|buscas pareja|quieres pareja",
-      "Sí, espero encontrar a alguien."
-    ],
-    [
-      "cual es tu relacion|es tu relacion con",
-      "Siempre estoy trabajando."
-    ],
-    [
-      "que haces para despejar|haces para despejar la",
-      "Ir a la playa o tocar instrumentos."
-    ],
-    [
-      "te gusta organizar tu|gusta organizar tu tiempo",
-      "Sí, siempre planifico mi agenda."
-    ],
-    [
-      "que haces antes de dormir|antes de acostarte|antes de dormir rutina",
-      "Pienso y organizo mis actividades."
-    ],
-    [
-      "te gusta cocinar para otros|cocinas para alguien|cocinar para otra persona",
-      "Sí."
-    ],
-    [
-      "que piensas del dinero|que piensas del dinero",
-      "Siempre hay dinero, el problema es la cantidad."
-    ],
-    [
-      "te gusta la independencia|te gusta la independencia",
-      "Sí."
-    ],
-    [
-      "cual es una de tus pasiones|tu pasion principal|que te apasiona",
-      "La música."
-    ],
-    [
-      "como te describirias|como te describirias",
-      "Trabajador, tranquilo y enfocado."
-    ],
-    [
-      "te gusta el conocimiento|valoras el conocimiento|conocimiento es importante",
-      "Sí, siempre estudio."
-    ],
-    [
-      "que haces cuando tienes hambre|que comes cuando tienes hambre",
-      "Como normalmente."
-    ],
-    [
-      "como te llevas con|te llevas con tu",
-      "Bien, mis padres viven en Baní."
-    ],
-    [
-      "a que edad emigraste|cuando emigraste|edad que emigraste",
-      "A los 16 años."
-    ],
-    [
-      "te gusta vivir ocupado|siempre ocupado|vida ocupada te gusta",
-      "Sí."
-    ],
-    [
-      "que te motiva|cual es tu motivacion|por que te motivas",
-      "El crecimiento personal y profesional."
-    ],
-    [
-      "como manejas la soledad|te sientes solo|manejo de la soledad",
-      "Estoy con Dios y enfocado en mis metas."
-    ],
-    [
-      "que lugar disfrutas visitar|que lugar disfrutas visitar",
-      "La playa."
-    ],
-    [
-      "que haces en un|haces en un dia",
-      "Trabajo, estudio y organizo mis actividades."
-    ],
-    [
-      "te gusta la disciplina|te gusta la disciplina",
-      "Sí."
-    ],
-    [
-      "que valoras mas|que es lo mas importante|que priorizas en la vida",
-      "La paz y la estabilidad."
-    ],
-    [
-      "que haces para mantenerte motivado|como te mantienes motivado",
-      "Seguir estudiando y trabajando."
-    ],
-    [
-      "tienes metas personales|cuales son tus metas|metas que tienes",
-      "Sí, constantemente."
-    ],
-    [
-      "que haces cuando estas cansado|cuando te cansas|si estas cansado",
-      "Descanso o escucho música."
-    ],
-    [
-      "que buscas en una|buscas en una conversacion",
-      "Conexión y tranquilidad."
-    ],
-    [
-      "que tan importante es|tan importante es la",
-      "Muy importante."
-    ],
-    [
-      "que prefieres salir o|prefieres salir o quedarte",
-      "Depende del momento."
-    ],
-    [
-      "que haces cuando necesitas inspiracion|como te inspiras|buscar inspiracion",
-      "Leo o escucho música."
-    ],
-    [
-      "como te gusta pasar|te gusta pasar el",
-      "Productivamente."
-    ],
-    [
-      "que haces cuando quieres pensar|cuando necesitas pensar|como piensas",
-      "Voy a la playa o toco piano."
-    ],
-    [
-      "que opinas del esfuerzo|el esfuerzo para ti|valor del esfuerzo",
-      "Es necesario para crecer."
-    ],
-    [
-      "te gusta aprender idiomas|gusta aprender idiomas o",
-      "Sí, viajar me ayudó mucho."
-    ],
-    [
-      "que haces cuando necesitas calma|buscar calma|cuando buscas calma",
-      "Busco tranquilidad y reflexión."
-    ],
-    [
-      "te consideras ambicioso|te consideras ambicioso",
-      "Sí, pero equilibrado."
-    ],
-    [
-      "que te hace feliz|que es la felicidad|ser feliz para ti",
-      "La paz, la música y el crecimiento."
-    ],
-    [
-      "que haces en tus viajes|como viajas|que buscas al viajar",
-      "Conocer culturas y aprender."
-    ],
-    [
-      "que significa para ti|significa para ti la",
-      "Tener paz mental y propósito."
-    ],
-    [
-      "como ves el futuro|vision del futuro|futuro como lo ves",
-      "Con fe y preparación."
-    ],
-    [
-      "que te gusta compartir|te gusta compartir con",
-      "Conversaciones y buenos momentos."
-    ],
-    [
-      "que haces cuando quieres desconectarte|desconectarte del trabajo",
-      "Leer o ir a la playa."
-    ],
-    [
-      "que tipo de ambiente|tipo de ambiente disfrutas",
-      "Tranquilo y positivo."
-    ],
-    [
-      "que haces cuando necesitas energia|como recargas energia|necesitas energia",
-      "Voy al gym o escucho música."
-    ],
-    [
-      "que importancia tiene la|importancia tiene la fe",
-      "Es fundamental."
-    ],
-    [
-      "que haces para crecer personalmente|crecimiento personal como|como creces",
-      "Estudiar constantemente."
-    ],
-    [
-      "que valoras en la|valoras en la vida",
-      "La paz, Dios y el crecimiento."
-    ],
-    [
-      "como es tu dia ideal|dia perfecto|dia ideal para ti",
-      "Productivo, tranquilo y en buena compañía."
-    ],
-    [
-      "te gusta descubrir lugares nuevos|conocer lugares nuevos|lugares nuevos",
-      "Sí."
-    ],
-    [
-      "que haces para mantener equilibrio|como mantienes equilibrio|equilibrio en vida",
-      "Trabajo, estudio y descanso."
-    ],
-    [
-      "que buscas en el futuro|planes futuros|que esperas del futuro",
-      "Seguir creciendo y encontrar a alguien especial."
     ]
-  ]
+  ],
+  "cvFields": [
+    {
+      "k": [
+        "guanare",
+        "venezuela",
+        "naciste",
+        "origen",
+        "nacimiento"
+      ],
+      "r": "🌎 {{origen}}"
+    },
+    {
+      "k": [
+        "guatire",
+        "creciste",
+        "criaste"
+      ],
+      "r": "🏡 Me crié en Guatire, Venezuela, donde desarrollé gran parte de mi identidad personal."
+    },
+    {
+      "k": [
+        "seminario",
+        "seminarista",
+        "filosofia",
+        "seminari"
+      ],
+      "r": "⛪ {{seminario}}"
+    },
+    {
+      "k": [
+        "espiritual",
+        "espiritualidad",
+        "fe",
+        "creencias"
+      ],
+      "r": "🙏 {{espiritualidad}}"
+    },
+    {
+      "k": [
+        "mascotas",
+        "perros",
+        "cielo",
+        "lanito",
+        "bichon",
+        "yorkie",
+        "mirador"
+      ],
+      "r": "🐾 {{mascotas}}"
+    },
+    {
+      "k": [
+        "hijos",
+        "padre",
+        "ninos"
+      ],
+      "r": "👨‍👦 {{hijos}}"
+    },
+    {
+      "k": [
+        "casado",
+        "casamiento",
+        "matrimon"
+      ],
+      "r": "💍 {{estado_civil_detalle}}"
+    },
+    {
+      "k": [
+        "soltero",
+        "soltera",
+        "pareja",
+        "relacion"
+      ],
+      "r": "💍 {{estado_civil_detalle}}\n\n{{relacion_seria}}"
+    },
+    {
+      "k": [
+        "musica",
+        "guitarra",
+        "piano",
+        "instrumento",
+        "musico"
+      ],
+      "r": "🎵 {{musica}}"
+    },
+    {
+      "k": [
+        "cocina",
+        "cocinar",
+        "comida",
+        "platos",
+        "gastronomia"
+      ],
+      "r": "🍳 {{cocina}}"
+    },
+    {
+      "k": [
+        "comida",
+        "gusta",
+        "come",
+        "arenque",
+        "molondron"
+      ],
+      "r": "🍽️ Gustos culinarios: {{cocina}}\n🚫 No le gustan: {{comida_no_gusta}}"
+    },
+    {
+      "k": [
+        "gimnasio",
+        "entrena",
+        "ejercicio",
+        "gym",
+        "smart",
+        "body"
+      ],
+      "r": "💪 Entrena en: {{gimnasio}}"
+    },
+    {
+      "k": [
+        "peso",
+        "libras",
+        "kilos"
+      ],
+      "r": "⚖️ {{fisica_peso}}"
+    },
+    {
+      "k": [
+        "altura",
+        "mide",
+        "estatura",
+        "talla",
+        "pies"
+      ],
+      "r": "📏 {{fisica_altura}}"
+    },
+    {
+      "k": [
+        "viaje",
+        "viajo",
+        "paises",
+        "viajado",
+        "alemania",
+        "panama",
+        "colombia"
+      ],
+      "r": "✈️ {{viajes}}"
+    },
+    {
+      "k": [
+        "baile",
+        "bailar",
+        "bachata",
+        "salsa",
+        "merengue"
+      ],
+      "r": "💃 {{baile}}"
+    },
+    {
+      "k": [
+        "vino",
+        "copa",
+        "bebida",
+        "toma",
+        "bebe"
+      ],
+      "r": "🍷 {{vino}}"
+    },
+    {
+      "k": [
+        "personalidad",
+        "caracter"
+      ],
+      "r": "👔 {{personalidad}}"
+    },
+    {
+      "k": [
+        "depresion",
+        "supero",
+        "etapa",
+        "emocional",
+        "superar"
+      ],
+      "r": "💪 {{salud_mental}}"
+    },
+    {
+      "k": [
+        "salud",
+        "enfermedad",
+        "condicion",
+        "medico"
+      ],
+      "r": "✅ {{salud_mental}}"
+    },
+    {
+      "k": [
+        "orient",
+        "heterosexual",
+        "sexual"
+      ],
+      "r": "✅ {{orientacion_sexual}}"
+    },
+    {
+      "k": [
+        "intimidad",
+        "pareja",
+        "amor"
+      ],
+      "r": "❤️ {{relacion_seria}}"
+    },
+    {
+      "k": [
+        "metas",
+        "vida",
+        "busca",
+        "construir",
+        "lograr"
+      ],
+      "r": "🌟 {{metas_vida}}"
+    },
+    {
+      "k": [
+        "valores",
+        "valoras",
+        "importa"
+      ],
+      "r": "❤️ {{valores_en_personas}}"
+    },
+    {
+      "k": [
+        "ajedrez",
+        "chess"
+      ],
+      "r": "♟️ El ajedrez es uno de mis hobbies favoritos. Desarrollo estrategia, paciencia y visión táctica."
+    },
+    {
+      "k": [
+        "correr",
+        "running",
+        "trotar",
+        "carrera"
+      ],
+      "r": "🏃 Sí, corro como ejercicio y para el bienestar mental. Es una práctica que despeja la mente y recarga la energía."
+    },
+    {
+      "k": [
+        "leer",
+        "lectura",
+        "libros",
+        "lees"
+      ],
+      "r": "📚 Sí, la lectura forma parte de mi crecimiento. Leo sobre negocios, filosofía, derecho, psicología y tecnología."
+    },
+    {
+      "k": [
+        "web",
+        "paginas",
+        "repositori",
+        "github"
+      ],
+      "r": "💻 Sí, disfruto crear proyectos digitales. He desarrollado 8 repositorios web activos."
+    },
+    {
+      "k": [
+        "origen",
+        "migracion",
+        "1992"
+      ],
+      "r": "🌎 {{origen}}"
+    },
+    {
+      "k": [
+        "experienci",
+        "trabajo",
+        "cargo",
+        "empresa",
+        "laboral"
+      ],
+      "r": "💼 {{ultimo_empleo.empresa}} ({{ultimo_empleo.periodo}}) — {{ultimo_empleo.cargo}}\n{{cargo_actual}}"
+    },
+    {
+      "k": [
+        "titulo",
+        "licenciatura",
+        "maestria",
+        "doctor",
+        "grado"
+      ],
+      "r": "🎓 Títulos: {{licenciaturas}} | Maestrías: {{maestrias}} | Doctorado: {{doctorado}}"
+    },
+    {
+      "k": [
+        "salario",
+        "sueldo",
+        "compensacion",
+        "pago",
+        "ganar"
+      ],
+      "r": "💼 {{expectativa_salarial}}"
+    },
+    {
+      "k": [
+        "disponibil",
+        "horario",
+        "trabaja",
+        "jornada",
+        "modalidad"
+      ],
+      "r": "📅 Disponibilidad: {{disponibilidad}} · {{disponibilidad_lugar}} · {{disponibilidad_horario}}"
+    },
+    {
+      "k": [
+        "telefono",
+        "celular",
+        "llama",
+        "contacta",
+        "whatsapp"
+      ],
+      "r": "📞 {{telefono_principal}} / {{whatsapp}}"
+    },
+    {
+      "k": [
+        "correo",
+        "email",
+        "mail"
+      ],
+      "r": "📧 {{correo}}"
+    },
+    {
+      "k": [
+        "direccion",
+        "vive",
+        "domicilio",
+        "bella vista"
+      ],
+      "r": "📍 {{direccion}}"
+    },
+    {
+      "k": [
+        "cedula",
+        "identidad",
+        "documento"
+      ],
+      "r": "🪪 {{cedula}}"
+    },
+    {
+      "k": [
+        "linkedin",
+        "red social",
+        "perfil"
+      ],
+      "r": "🔗 LinkedIn: {{linkedin}} | Portafolio: {{portafolio}}"
+    }
+  ],
+  "profile": {
+    "nombre_completo": "Deyvis Ignacio Ramírez Contreras",
+    "primer_nombre": "Deyvis Ignacio",
+    "apellidos": "Ramírez Contreras",
+    "titulo": "PhD(c) · M.A.",
+    "cedula": "224-0000677-5",
+    "sexo": "Masculino",
+    "estado_civil": "Soltero",
+    "fecha_nacimiento": "12 de septiembre de 1982",
+    "edad": "43 años",
+    "nacionalidad": "Dominicana",
+    "pais_residencia": "República Dominicana",
+    "ciudad": "Santo Domingo, D.N.",
+    "direccion": "Calle Hellios No. 147, Residencial Pronasa, Bella Vista, Santo Domingo, D.N., R.D.",
+    "sector": "Bella Vista",
+    "provincia": "Distrito Nacional",
+    "codigo_postal": "10111",
+    "vivienda": "Casa propia y Apartamento propio",
+    "telefono_principal": "+1 (829) 663-2122",
+    "telefono_alternativo": "829-344-5437",
+    "whatsapp": "809-693-7715",
+    "correo": "Deyvis213@gmail.com",
+    "linkedin": "linkedin.com/in/deyvis-ramirez-contreras-8b50988b",
+    "portafolio": "deyvis213.github.io/HojadevidaDeyvisRam-rez/",
+    "github": "github.com/deyvis213",
+    "instagram": "disponible bajo solicitud",
+    "facebook": "disponible bajo solicitud",
+    "cv_pdf": "Disponible para descarga en este sitio — botón 'Descargar CV en PDF'",
+    "certificados": "drive.google.com/file/d/1L0cSg99Elq92FGqOF1CrQzN4_gqhYX0A",
+    "disponibilidad": "Inmediata",
+    "disponibilidad_lugar": "En cualquier parte del país y del mundo",
+    "disponibilidad_horario": "Cualquier horario — sin restricción",
+    "modalidad": "Presencial, Remota, Híbrida o Por proyecto",
+    "jornada": "Completa, media jornada, turnos rotativos, nocturna",
+    "fines_semana": "Sí",
+    "feriados": "Sí",
+    "disponibilidad_viaje": "Sí, nacional e internacional",
+    "cambio_residencia": "Sí, donde sea necesario",
+    "area_interes": "Dirección Ejecutiva, Auditoría, Derecho, Finanzas, Consultoría, IA Aplicada, Administración",
+    "nivel_academico": "Doctorado (en curso) — máximo nivel",
+    "bachillerato": "Sí — San Antonio de Padua, 1999",
+    "maestrias": [
+      "Auditoría Interna — UASD (Mayo 2024)",
+      "Derecho Administrativo y Tributario — UASD (Dic. 2023)",
+      "Derecho Económico y Financiero — UNAPEC (Mar. 2023)"
+    ],
+    "doctorado": "PhD(c) IA Aplicada a la Productividad — Universidad Miguel Hernández de Elche, España, en colaboración con la Universidad O&M",
+    "ingenieria": "Ingeniería de Datos e Inteligencia Organizacional — UNICARIBE (2026, Tránsito)",
+    "licenciaturas": [
+      "Psicología Clínica — UNICARIBE (Dic. 2025)",
+      "Contabilidad — UFHEC (Mar. 2023)",
+      "Relaciones Internacionales — UNICARIBE (Nov. 2021)",
+      "Derecho — UNICARIBE (Ene. 2019)"
+    ],
+    "formacion_internacional": [
+      "Anticorrupción — UNAM, México (Ene. 2020)",
+      "Philosophy and Rule of Law — Columbia University, NY (Dic. 2019)",
+      "Economics of Money and Banking — Harvard University (Oct. 2019)"
+    ],
+    "estudios_complementarios": "65+ estudios, diplomados y certificaciones (ver tabla en CV)",
+    "certificacion_tributaria": "Consultor Tributario Certificado — ATRIBRD (Nov. 2023)",
+    "idiomas": {
+      "espanol": "Nativo — escritura, lectura y conversación avanzada",
+      "ingles": "Avanzado — formación académica en Columbia University y Harvard University",
+      "portugues": "Lectura técnica",
+      "otros": "Francés básico"
+    },
+    "software_contabilidad": [
+      "SAP S/4HANA",
+      "Oracle Financials Cloud",
+      "Microsoft Dynamics 365",
+      "QuickBooks Enterprise",
+      "SAGE 50cloud",
+      "Xero",
+      "FreshBooks",
+      "Profit Plus",
+      "Odoo ERP",
+      "SIIGO",
+      "ContaPlus",
+      "Aspel COI",
+      "World Office",
+      "Tally Prime",
+      "Defontana ERP"
+    ],
+    "software_informatica": [
+      "Microsoft Office 365",
+      "Google Workspace",
+      "Power BI",
+      "Tableau",
+      "SQL Server",
+      "AutoCAD",
+      "Adobe Acrobat Pro",
+      "Microsoft Teams/Zoom",
+      "GitHub/GitLab",
+      "WordPress"
+    ],
+    "inteligencia_artificial": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Microsoft Copilot",
+      "Midjourney",
+      "DALL·E 3",
+      "Meta LLaMA",
+      "Grok",
+      "Perplexity AI",
+      "Stable Diffusion"
+    ],
+    "lenguajes_desarrollo": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Python",
+      "Firebase",
+      "Supabase",
+      "GitHub",
+      "Visual Studio Code"
+    ],
+    "microsoft_office": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Outlook",
+      "Access",
+      "OneNote",
+      "Teams",
+      "Publisher",
+      "Canva",
+      "CapCut"
+    ],
+    "redes_sociales_manejo": [
+      "YouTube",
+      "Facebook",
+      "Instagram",
+      "TikTok",
+      "X (Twitter)",
+      "LinkedIn",
+      "WhatsApp",
+      "Telegram",
+      "Snapchat",
+      "Pinterest"
+    ],
+    "habilidades_blandas": [
+      "Liderazgo proactivo",
+      "Responsabilidad",
+      "Ética profesional",
+      "Orientación a resultados",
+      "Planificación estratégica",
+      "Toma de decisiones",
+      "Gestión de equipos",
+      "Análisis organizacional",
+      "Negociación",
+      "Comunicación efectiva",
+      "Creatividad e innovación",
+      "Gestión del tiempo",
+      "Atención al detalle",
+      "Confidencialidad"
+    ],
+    "anos_experiencia": "17+ años en roles directivos, contables y jurídicos",
+    "ultimo_empleo": {
+      "empresa": "DENECU, SRL",
+      "cargo": "Director · Administrador",
+      "periodo": "2014 – 2023",
+      "duracion": "9 años",
+      "funciones": "Planificación presupuestaria, gestión financiera, control de ejecución, reportes gerenciales, supervisión de personal"
+    },
+    "penultimo_empleo": {
+      "empresa": "Grupo Alonzo",
+      "cargo": "Contador",
+      "periodo": "2008 – 2013",
+      "duracion": "5 años",
+      "funciones": "Contabilidad NIIF, cumplimiento DGII, costos de producción, estados financieros, auditoría interna"
+    },
+    "cargo_actual": "Práctica profesional autónoma — Administrador, Contador, Abogado de Oficio",
+    "personal_supervisado": "Equipos administrativos y operativos",
+    "presupuesto_manejado": "Gestión presupuestaria corporativa integral (DENECU, SRL)",
+    "experiencia_sector_privado": "Sí — DENECU, SRL y Grupo Alonzo",
+    "experiencia_sector_publico": "Asesoría y representación ante instituciones del Estado",
+    "experiencia_emprendimiento": "Sí — práctica autónoma activa y 8 proyectos web propios",
+    "experiencia_internacional": "Formación Harvard, Columbia, UNAM; comercio exterior y relaciones internacionales",
+    "logros": [
+      "Dirección corporativa por 9 años con gestión presupuestaria integral",
+      "4 títulos de licenciatura en áreas complementarias",
+      "3 maestrías completadas en ámbitos jurídico y financiero",
+      "Formación en Harvard, Columbia y UNAM",
+      "Certificado como Consultor Tributario ATRIBRD 2023",
+      "8 repositorios web desarrollados y activos",
+      "Participante XIII Congreso Tributario IFA 2023"
+    ],
+    "referencias": [
+      {
+        "nombre": "Lic. Federico Núñez",
+        "telefono": "+1 (809) 697-3166"
+      },
+      {
+        "nombre": "Natasha Rangel",
+        "telefono": "+1 (829) 703-4041"
+      },
+      {
+        "nombre": "Evelin Esperanza",
+        "telefono": "+1 (829) 508-8826"
+      },
+      {
+        "nombre": "Lic. Franklin Contreras",
+        "telefono": "+1 (829) 344-5437"
+      }
+    ],
+    "expectativa_salarial": "Compensación acorde al nivel de responsabilidad, preparación académica y valor estratégico aportado. Abierto al rango presupuestado por la empresa.",
+    "licencia_conducir": "Sí — Categoría vehículo liviano y vehículo pesado",
+    "vehiculo_propio": "Sí — Vehículo propio, con total facilidad de traslado",
+    "permiso_trabajo": "Ciudadano dominicano — no requiere patrocinio laboral",
+    "condicion_migratoria": "Residente nacional con documentos en orden",
+    "autorizacion_datos": "Sí, autoriza uso de su información para procesos de selección",
+    "hobbies": "Música — toca guitarra y piano, imparte clases de música. Cocina — arroz, habichuelas, carnes y pastas. Mascotas — Cielo y Lanito. Ajedrez, lectura, diseño web, correr, entrenamiento físico. Baile — bachata sensual, salsa, merengue.",
+    "musica": "Músico: toca guitarra y piano. Imparte clases de música, bases rítmicas, armonía y técnica instrumental.",
+    "cocina": "Le gusta cocinar: arroz, habichuelas, carnes y pastas. Estilo casero, sabroso y práctico.",
+    "mascotas": "Vive con sus dos perros: Cielo, una Bichón Maltés de 3 años, y Lanito, un Yorkie de 3 años. Los saca a pasear en el Mirador Sur.",
+    "estado_civil_detalle": "Soltero — aproximadamente un año. Nunca se ha casado. Vive con sus mascotas Cielo y Lanito.",
+    "hijos": "No tiene hijos. Por decisiones compartidas con parejas anteriores, priorizando metas académicas, laborales y proyectos personales.",
+    "relacion_seria": "Busca relaciones con sentido, conexión y estabilidad. Valora honestidad, paz, comunicación y crecimiento mutuo.",
+    "comida_no_gusta": "No le gustan el arenque ni el molondrón.",
+    "orientacion_sexual": "Heterosexual.",
+    "salud_mental": "Hace unos 10 años enfrentó una etapa de depresión fuerte, que superó con fortaleza, aprendizaje y reconstrucción personal. Actualmente se siente estable y enfocado.",
+    "origen": "Nació en Guanare, Venezuela. Creció en Guatire, Venezuela. Llegó a República Dominicana en 1992 por razones familiares, proyección de futuro y mejores oportunidades de desarrollo.",
+    "ciudad_nacimiento": "Guanare, Venezuela",
+    "ciudad_crianza": "Guatire, Venezuela",
+    "ano_llegada_rd": "1992",
+    "identidad": "Raíces venezolanas con formación y vida consolidada en República Dominicana.",
+    "seminario": "Sí, tuvo formación como seminarista. El seminario le dejó disciplina, valores, reflexión profunda y crecimiento espiritual. Estudió filosofía, pensamiento crítico y formación humana.",
+    "filosofia": "La filosofía fortalece el razonamiento lógico, la ética y la capacidad analítica. Le ayuda a pensar con profundidad y tomar mejores decisiones.",
+    "espiritualidad": "Persona espiritual con principios sólidos y visión humana.",
+    "fisica_peso": "Aproximadamente 170 libras.",
+    "fisica_altura": "Cerca de 5'11\" — equivalente a unos 180 cm.",
+    "gimnasio": "Body Shop Gym y Smart Fit.",
+    "viajes": "Ha visitado Estados Unidos, Alemania, Panamá y Colombia.",
+    "baile": "Bachata sensual, bachata tradicional, salsa (On2, estilo cubano y casino) y merengue.",
+    "personalidad": "Culta, disciplinada, sociable y orientada al progreso.",
+    "vino": "Ocasionalmente disfruta una copa de vino. No fuma. No consume alcohol con frecuencia.",
+    "valores_en_personas": "Lealtad, inteligencia, respeto y crecimiento mutuo.",
+    "metas_vida": "Paz, éxito, salud, amor y legado positivo.",
+    "moto": "Sí, tiene una motocicleta Yamaha R6. Disfruta montarla.",
+    "yoga": "Practica yoga para equilibrio físico y mental.",
+    "peliculas": "Le gustan las películas con buenas historias y emoción.",
+    "rutina_noche": "Lee, planifica o descansa. Duerme cerca de las 11:00 p.m. Despierta cerca de las 8:00 a.m.",
+    "fe": "Dios y la fe tienen un lugar importante como guía espiritual.",
+    "frase_que_representa": "Orden, visión y progreso.",
+    "como_ser_recordado": "Como un hombre íntegro, preparado y constructor de bienestar.",
+    "imagen_personal": "Cuida su imagen. Viste bien, profesional y moderno. Le gustan los perfumes finos.",
+    "hábitos_alimenticios": "Come saludable en equilibrio. No fuma. Solo vino ocasionalmente.",
+    "competitividad": "Competitivo de forma sana, principalmente consigo mismo.",
+    "manejo_fracasos": "Analiza, aprende y continúa.",
+    "segundo_oportunidades": "Cree en segundas oportunidades según el caso y la madurez.",
+    "perdon": "Perdona, pero aprende límites. Prefiere soltar y avanzar.",
+    "envidia_opinion": "Desgasta y no aporta nada.",
+    "chisme_opinion": "Pérdida de tiempo.",
+    "privacidad_redes": "Prefiere equilibrio y criterio en redes sociales.",
+    "hogar_ideal": "En paz, limpio, armonioso y feliz.",
+    "playa_montana": "Ambas, según el momento.",
+    "ciudad_campo": "Ciudad con espacios tranquilos.",
+    "perfil_intimo": "Sensual, respetuoso, exclusivo y orientado a conexiones reales y sanas.",
+    "intimidad_resumen": "Pasión, respeto, exclusividad y química. Conexión real y disfrute mutuo.",
+    "objetivo": "Optar por una posición acorde con mis experiencias académicas, técnicas y laborales para brindar conocimientos y servicios, desempeñar funciones múltiples y garantizar el adecuado manejo de los valores institucionales.",
+    "repositorios_web": [
+      {
+        "nombre": "AuditmindAI",
+        "url": "deyvis213.github.io/AuditmindAi/",
+        "descripcion": "Auditoría inteligente con IA"
+      },
+      {
+        "nombre": "Vista Inmobiliaria RD",
+        "url": "deyvis213.github.io/VistainmobiliariaRD/",
+        "descripcion": "Portal inmobiliario RD"
+      },
+      {
+        "nombre": "TeEncontre",
+        "url": "deyvis213.github.io/teencontre/",
+        "descripcion": "Directorio de servicios dominicanos"
+      },
+      {
+        "nombre": "Ovulina",
+        "url": "deyvis213.github.io/Ovulina/",
+        "descripcion": "Salud femenina y fertilidad"
+      },
+      {
+        "nombre": "CapacitaRD Group",
+        "url": "deyvis213.github.io/CapacitaRDgroup/",
+        "descripcion": "Capacitaciones corporativas"
+      },
+      {
+        "nombre": "Abogado DR",
+        "url": "deyvis213.github.io/AbogadoDR/",
+        "descripcion": "Servicios jurídicos dominicanos"
+      },
+      {
+        "nombre": "Ramírez Contabilidad & Auditoría",
+        "url": "deyvis213.github.io/Ram-rez-Contabilidad-Auditor-a/",
+        "descripcion": "Firma contable digital"
+      },
+      {
+        "nombre": "Hoja de Vida Deyvis Ramírez",
+        "url": "deyvis213.github.io/HojadevidaDeyvisRam-rez/",
+        "descripcion": "CV digital profesional"
+      }
+    ]
+  }
 }
