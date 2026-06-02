@@ -755,6 +755,28 @@
     color:var(--bronze); font-size:10px;
   }
 
+
+  /* Tech items with description */
+  .tech-desc { display:block; font-size:10.5px; color:var(--sage); margin-top:2px; line-height:1.35; }
+  .tech-level { display:inline-block; margin-bottom:10px; padding:2px 8px; border-radius:12px;
+    font-size:9px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
+    background:rgba(176,141,87,0.12); color:var(--bronze); border:1px solid var(--bronze); }
+  /* Wide card: spans 2 columns */
+  .tech-col--wide { grid-column:span 2; }
+  /* Full card: spans all 3 columns */
+  .tech-col--full { grid-column:span 3; }
+  /* 2-column list inside a wide card */
+  .ul-2col { columns:2; column-gap:18px; }
+  .ul-2col li { break-inside:avoid; }
+  /* AI experience block */
+  .ai-exp { margin-bottom:16px; padding:10px 14px; background:rgba(14,31,26,0.04); border-radius:4px;
+    border-left:3px solid var(--bronze); }
+  .ai-exp p { font-size:11px; font-weight:700; letter-spacing:0.1em; text-transform:uppercase;
+    color:var(--bronze); margin-bottom:8px; }
+  .ai-exp ul { list-style:none; display:grid; grid-template-columns:1fr 1fr; gap:2px 10px; }
+  .ai-exp ul li { font-size:12px; color:var(--ink); padding:3px 0 3px 14px; position:relative; }
+  .ai-exp ul li::before { content:"▸"; position:absolute; left:0; color:var(--bronze); font-size:10px; top:4px; }
+
   /* REPOS SECTION */
   .repos-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:14px; }
   .repo-card {
@@ -994,11 +1016,7 @@
       <div class="header-meta">
         <div class="meta-item">
           <div class="label">Dirección</div>
-          <div class="value">Calle Hellios No. 147<br>Residencial Pronasa, Bella Vista<br>Santo Domingo, D.N., R.D.<br>Apartado Postal 10111</div>
-        </div>
-        <div class="meta-item">
-          <div class="label">Cédula</div>
-          <div class="value">224-0000677-5</div>
+          <div class="value">Bella Vista<br>Santo Domingo, D.N., R.D.<br>Apartado Postal 10111</div>
         </div>
         <div class="meta-item">
           <div class="label">Teléfono</div>
@@ -1010,7 +1028,7 @@
         </div>
         <div class="meta-item">
           <div class="label">Correo</div>
-          <div class="value"><a href="mailto:Deyvis213@gmail.com">Deyvis213@gmail.com</a></div>
+          <div class="value"><a href="mailto:Deyvis213@gmail.com">Deyvis213@gmail.com</a><br><a href="mailto:deyvis213@hotmail.com">deyvis213@hotmail.com</a></div>
         </div>
         <div class="meta-item">
           <div class="label">Idiomas</div>
@@ -1434,28 +1452,31 @@
       <div class="section-divider"></div>
 
       <div class="tech-grid">
+
+        <!-- Contabilidad & Administración – 15 -->
         <div class="tech-col">
           <h4>Contabilidad &amp; Administración</h4>
           <span class="tech-count">15 plataformas</span>
           <ul>
-            <li>SAP S/4HANA</li>
-            <li>Oracle Financials Cloud</li>
-            <li>Microsoft Dynamics 365</li>
-            <li>QuickBooks Enterprise</li>
-            <li>SAGE 50cloud</li>
-            <li>Xero</li>
-            <li>FreshBooks</li>
-            <li>Profit Plus</li>
-            <li>Odoo ERP</li>
-            <li>SIIGO</li>
-            <li>ContaPlus</li>
-            <li>Aspel COI</li>
-            <li>World Office</li>
-            <li>Tally Prime</li>
-            <li>Defontana ERP</li>
+            <li>SAP S/4HANA<span class="tech-desc">ERP Empresarial para Finanzas, Contabilidad y Gestión de Procesos</span></li>
+            <li>Oracle Financials Cloud<span class="tech-desc">Gestión Financiera y Contabilidad en la Nube</span></li>
+            <li>Microsoft Dynamics 365<span class="tech-desc">ERP y CRM para Administración Empresarial</span></li>
+            <li>QuickBooks Enterprise<span class="tech-desc">Contabilidad, Facturación e Inventario para Empresas</span></li>
+            <li>SAGE 50cloud<span class="tech-desc">Contabilidad, Nómina y Gestión Financiera</span></li>
+            <li>Xero<span class="tech-desc">Contabilidad en la Nube para PYMES y Emprendedores</span></li>
+            <li>FreshBooks<span class="tech-desc">Facturación, Contabilidad y Gestión de Clientes</span></li>
+            <li>Profit Plus<span class="tech-desc">Administración Comercial, Inventario y Contabilidad</span></li>
+            <li>Odoo ERP<span class="tech-desc">ERP Modular para Finanzas, Ventas y RRHH</span></li>
+            <li>SIIGO<span class="tech-desc">Contabilidad Electrónica y Facturación Digital</span></li>
+            <li>ContaPlus<span class="tech-desc">Contabilidad General y Gestión Fiscal</span></li>
+            <li>Aspel COI<span class="tech-desc">Contabilidad Integral y Cumplimiento Tributario</span></li>
+            <li>World Office<span class="tech-desc">Software Administrativo, Contable y Financiero</span></li>
+            <li>Tally Prime<span class="tech-desc">Contabilidad, Inventario y Gestión Empresarial</span></li>
+            <li>Defontana ERP<span class="tech-desc">ERP en la Nube para Finanzas y Administración</span></li>
           </ul>
         </div>
 
+        <!-- Software Informático – 10 -->
         <div class="tech-col">
           <h4>Software Informático</h4>
           <span class="tech-count">10 aplicaciones</span>
@@ -1473,36 +1494,7 @@
           </ul>
         </div>
 
-        <div class="tech-col">
-          <h4>Inteligencia Artificial</h4>
-          <span class="tech-count">10 herramientas IA</span>
-          <ul>
-            <li>ChatGPT (OpenAI)</li>
-            <li>Claude (Anthropic)</li>
-            <li>Gemini (Google DeepMind)</li>
-            <li>Microsoft Copilot</li>
-            <li>Midjourney</li>
-            <li>DALL·E 3 (OpenAI)</li>
-            <li>Meta LLaMA</li>
-            <li>Grok (xAI)</li>
-            <li>Perplexity AI</li>
-            <li>Stable Diffusion</li>
-          </ul>
-        </div>
-        <div class="tech-col">
-          <h4>Lenguajes &amp; Desarrollo</h4>
-          <span class="tech-count">8 tecnologías</span>
-          <ul>
-            <li>HTML5</li>
-            <li>CSS3</li>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>Firebase</li>
-            <li>Supabase</li>
-            <li>GitHub</li>
-            <li>Visual Studio Code</li>
-          </ul>
-        </div>
+        <!-- Microsoft Office & Creatividad – 10 -->
         <div class="tech-col">
           <h4>Microsoft Office &amp; Creatividad</h4>
           <span class="tech-count">10 herramientas</span>
@@ -1519,22 +1511,125 @@
             <li>CapCut</li>
           </ul>
         </div>
-        <div class="tech-col">
-          <h4>Redes Sociales &amp; Mensajería</h4>
-          <span class="tech-count">10 plataformas</span>
-          <ul>
-            <li>YouTube</li>
-            <li>Facebook</li>
-            <li>Instagram</li>
-            <li>TikTok</li>
-            <li>X (Twitter)</li>
-            <li>LinkedIn</li>
-            <li>WhatsApp</li>
-            <li>Telegram</li>
-            <li>Snapchat</li>
-            <li>Pinterest</li>
+
+        <!-- Inteligencia Artificial – 20 + 8 funciones -->
+        <div class="tech-col tech-col--wide">
+          <h4>Inteligencia Artificial</h4>
+          <span class="tech-count">20 herramientas y plataformas de IA</span>
+          <div class="ai-exp">
+            <p>Experiencia en Inteligencia Artificial · 8 funciones</p>
+            <ul>
+              <li>Generación de contenido y redacción asistida con IA</li>
+              <li>Análisis y síntesis de documentos complejos</li>
+              <li>Creación de imágenes y material visual con IA</li>
+              <li>Automatización de procesos empresariales</li>
+              <li>Desarrollo y configuración de chatbots corporativos</li>
+              <li>Análisis predictivo y business intelligence con IA</li>
+              <li>Generación y edición de video con inteligencia artificial</li>
+              <li>Investigación avanzada y búsqueda semántica con IA</li>
+            </ul>
+          </div>
+          <ul class="ul-2col">
+            <li>ChatGPT<span class="tech-desc">OpenAI – Asistente Conversacional y Generación de Contenido</span></li>
+            <li>Claude<span class="tech-desc">Anthropic – IA Conversacional y Análisis de Documentos</span></li>
+            <li>Gemini<span class="tech-desc">Google DeepMind – IA Multimodal y Productividad</span></li>
+            <li>Microsoft Copilot<span class="tech-desc">Asistente de Productividad e Integración con Microsoft 365</span></li>
+            <li>Midjourney<span class="tech-desc">Generación de Imágenes con IA</span></li>
+            <li>DALL·E 3<span class="tech-desc">OpenAI – Creación de Imágenes a partir de Texto</span></li>
+            <li>Meta LLaMA<span class="tech-desc">Modelo de Lenguaje Open Source</span></li>
+            <li>Grok<span class="tech-desc">xAI – Asistente Conversacional Integrado con X</span></li>
+            <li>Perplexity AI<span class="tech-desc">Motor de Respuestas con Búsqueda Web</span></li>
+            <li>Stable Diffusion<span class="tech-desc">Generación de Imágenes Open Source</span></li>
+            <li>GitHub Copilot<span class="tech-desc">Asistente de Programación con IA</span></li>
+            <li>NotebookLM<span class="tech-desc">Google – Investigación y Resumen de Documentos</span></li>
+            <li>Runway<span class="tech-desc">Generación y Edición de Video con IA</span></li>
+            <li>Synthesia<span class="tech-desc">Creación de Videos con Avatares IA</span></li>
+            <li>ElevenLabs<span class="tech-desc">Generación y Clonación de Voz con IA</span></li>
+            <li>Leonardo AI<span class="tech-desc">Diseño y Arte Digital con IA</span></li>
+            <li>Jasper AI<span class="tech-desc">Marketing y Creación de Contenido</span></li>
+            <li>DeepSeek<span class="tech-desc">Modelo de Lenguaje y Programación Asistida</span></li>
+            <li>Character.AI<span class="tech-desc">Personajes Conversacionales Personalizados</span></li>
+            <li>Suno AI<span class="tech-desc">Generación de Música y Canciones con IA</span></li>
           </ul>
         </div>
+
+        <!-- Lenguajes & Desarrollo – 40 -->
+        <div class="tech-col tech-col--full">
+          <h4>Lenguajes &amp; Desarrollo</h4>
+          <span class="tech-count">40 tecnologías y herramientas</span>
+          <span class="tech-level">Avanzado · Intermedio</span>
+          <ul class="ul-2col">
+            <li>HTML5<span class="tech-desc">Estructura de Aplicaciones Web</span></li>
+            <li>CSS3<span class="tech-desc">Diseño y Estilos Web</span></li>
+            <li>JavaScript<span class="tech-desc">Web Frontend/Backend</span></li>
+            <li>TypeScript<span class="tech-desc">Aplicaciones Escalables</span></li>
+            <li>Python<span class="tech-desc">Automatización, IA y Backend</span></li>
+            <li>Java<span class="tech-desc">Backend y Android</span></li>
+            <li>C#<span class="tech-desc">.NET y Aplicaciones Empresariales</span></li>
+            <li>PHP<span class="tech-desc">Desarrollo Web Backend</span></li>
+            <li>Kotlin<span class="tech-desc">Android Nativo</span></li>
+            <li>Swift<span class="tech-desc">iOS Nativo</span></li>
+            <li>Dart<span class="tech-desc">Flutter Multiplataforma</span></li>
+            <li>Go<span class="tech-desc">Microservicios y Sistemas Distribuidos</span></li>
+            <li>Scala<span class="tech-desc">Big Data y Backend</span></li>
+            <li>React<span class="tech-desc">Interfaces Web Modernas</span></li>
+            <li>Node.js<span class="tech-desc">Backend con JavaScript</span></li>
+            <li>Flutter<span class="tech-desc">Apps Multiplataforma</span></li>
+            <li>Firebase<span class="tech-desc">Backend as a Service</span></li>
+            <li>Supabase<span class="tech-desc">Backend Open Source</span></li>
+            <li>Git<span class="tech-desc">Control de Versiones</span></li>
+            <li>GitHub<span class="tech-desc">Repositorios y Colaboración</span></li>
+            <li>GitLab<span class="tech-desc">DevOps y Gestión de Código</span></li>
+            <li>Visual Studio Code<span class="tech-desc">Editor de Código</span></li>
+            <li>Docker<span class="tech-desc">Contenedores de Aplicaciones</span></li>
+            <li>SQL<span class="tech-desc">Consultas y Gestión de Datos</span></li>
+            <li>MySQL<span class="tech-desc">Base de Datos Relacional</span></li>
+            <li>PostgreSQL<span class="tech-desc">Base de Datos Avanzada</span></li>
+            <li>MongoDB<span class="tech-desc">Base de Datos NoSQL</span></li>
+            <li>REST API<span class="tech-desc">Integración de Servicios Web</span></li>
+            <li>GraphQL<span class="tech-desc">Consultas Eficientes de APIs</span></li>
+            <li>Linux<span class="tech-desc">Administración de Servidores</span></li>
+            <li>Next.js<span class="tech-desc">Framework React Full Stack</span></li>
+            <li>Express.js<span class="tech-desc">Framework Backend para Node.js</span></li>
+            <li>Tailwind CSS<span class="tech-desc">Diseño Web Utilitario</span></li>
+            <li>Bootstrap<span class="tech-desc">Framework de Interfaces Web</span></li>
+            <li>Angular<span class="tech-desc">Framework Frontend Empresarial</span></li>
+            <li>Vue.js<span class="tech-desc">Framework Frontend Progresivo</span></li>
+            <li>Redis<span class="tech-desc">Caché y Almacenamiento en Memoria</span></li>
+            <li>Kubernetes<span class="tech-desc">Orquestación de Contenedores</span></li>
+            <li>AWS<span class="tech-desc">Amazon Web Services – Computación en la Nube</span></li>
+            <li>Jenkins<span class="tech-desc">Integración y Despliegue Continuo – CI/CD</span></li>
+          </ul>
+        </div>
+
+        <!-- Redes Sociales & Mensajería – 20 -->
+        <div class="tech-col tech-col--wide">
+          <h4>Redes Sociales &amp; Mensajería</h4>
+          <span class="tech-count">20 plataformas</span>
+          <ul class="ul-2col">
+            <li>YouTube<span class="tech-desc">Plataforma de Videos y Streaming</span></li>
+            <li>Facebook<span class="tech-desc">Red Social para Comunidades y Negocios</span></li>
+            <li>Instagram<span class="tech-desc">Compartición de Fotos, Videos y Reels</span></li>
+            <li>TikTok<span class="tech-desc">Videos Cortos y Contenido Viral</span></li>
+            <li>X – Twitter<span class="tech-desc">Microblogging y Noticias en Tiempo Real</span></li>
+            <li>LinkedIn<span class="tech-desc">Red Profesional y Empleo</span></li>
+            <li>WhatsApp<span class="tech-desc">Mensajería Instantánea y Llamadas</span></li>
+            <li>Telegram<span class="tech-desc">Mensajería Segura y Canales</span></li>
+            <li>Snapchat<span class="tech-desc">Mensajería Multimedia y Stories</span></li>
+            <li>Pinterest<span class="tech-desc">Inspiración Visual y Descubrimiento de Ideas</span></li>
+            <li>Discord<span class="tech-desc">Comunidades, Chat de Voz y Gaming</span></li>
+            <li>Reddit<span class="tech-desc">Foros y Comunidades Temáticas</span></li>
+            <li>Threads<span class="tech-desc">Microblogging Integrado con Instagram</span></li>
+            <li>Messenger<span class="tech-desc">Mensajería de Facebook</span></li>
+            <li>WeChat<span class="tech-desc">Mensajería, Pagos y Servicios Digitales</span></li>
+            <li>LINE<span class="tech-desc">Mensajería y Comunicación Empresarial</span></li>
+            <li>Twitch<span class="tech-desc">Streaming en Vivo y Gaming</span></li>
+            <li>Tumblr<span class="tech-desc">Blogs y Contenido Multimedia</span></li>
+            <li>Quora<span class="tech-desc">Preguntas, Respuestas y Conocimiento</span></li>
+            <li>Clubhouse<span class="tech-desc">Salas de Audio y Networking</span></li>
+          </ul>
+        </div>
+
       </div>
     </section>
 
