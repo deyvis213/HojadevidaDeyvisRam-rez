@@ -765,9 +765,9 @@
   .tech-col--wide { grid-column:span 2; }
   /* Full card: spans all 3 columns */
   .tech-col--full { grid-column:span 3; }
-  /* 2-column list inside a wide card */
-  .ul-2col { columns:2; column-gap:18px; }
-  .ul-2col li { break-inside:avoid; }
+  /* 2-column list inside a wide card — usa Grid (no columns, incompatible con html2canvas) */
+  .ul-2col { display:grid; grid-template-columns:1fr 1fr; column-gap:18px; }
+  .ul-2col li { min-width:0; }
   /* AI experience block */
   .ai-exp { margin-bottom:16px; padding:10px 14px; background:rgba(14,31,26,0.04); border-radius:4px;
     border-left:3px solid var(--bronze); }
@@ -967,6 +967,11 @@
     .tech-col { background:#f9f9f9 !important; border-top-color:#B08D57 !important; box-shadow:none !important; border-color:#ddd !important; }
     .tech-col ul li::before { color:#B08D57 !important; }
     .tech-count { color:#8B6B3E !important; }
+    /* Wide/full cards: reset grid-column en print */
+    .tech-col--wide, .tech-col--full { grid-column:span 1 !important; }
+    .tech-grid { grid-template-columns:1fr 1fr !important; }
+    /* Lista 2 cols: reducir a 1 col en print para evitar desbordamiento */
+    .ul-2col { grid-template-columns:1fr !important; }
 
     /* Repos */
     .repo-card { background:#f9f9f9 !important; border-left-color:#B08D57 !important; border-color:#ddd !important; box-shadow:none !important; }
@@ -1824,7 +1829,7 @@ function downloadCV(lang) {
         margin:[4,4,4,4],
         filename:'CV_Deyvis_Ramirez_Contreras_EN.pdf',
         image:{type:'jpeg',quality:0.97},
-        html2canvas:{scale:2,useCORS:true,letterRendering:true,scrollY:0},
+        html2canvas:{scale:2,useCORS:true,letterRendering:true,scrollX:0,scrollY:0,allowTaint:true,logging:false},
         jsPDF:{unit:'mm',format:'a4',orientation:'portrait'}
       }).from(container).save().then(function(){
         container.innerHTML = originalHTML;
@@ -1843,7 +1848,7 @@ function downloadCV(lang) {
       margin:[4,4,4,4],
       filename:'CV_Deyvis_Ramirez_Contreras_ES.pdf',
       image:{type:'jpeg',quality:0.95},
-      html2canvas:{scale:2,useCORS:true,letterRendering:true},
+      html2canvas:{scale:2,useCORS:true,letterRendering:true,scrollX:0,scrollY:0,allowTaint:true,logging:false},
       jsPDF:{unit:'mm',format:'a4',orientation:'portrait'}
     }).from(document.querySelector('.cv-container')).save().then(function(){
       btn.textContent = '⬇ Descargar CV · 🇩🇴 Español';
